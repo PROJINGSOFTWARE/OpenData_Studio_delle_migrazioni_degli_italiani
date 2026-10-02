@@ -1,0 +1,1321 @@
+Cod_origine,Regione di origine,Tipo di trasferimento,Territorio di cittadinanza,Sesso,Cod_destinazione,Territorio di destinazione,anno,valore
+ITC1,Piemonte,in altre regioni,Italia,femmine,X1033,Mondo,2011,8745
+ITC1,Piemonte,in altre regioni,Italia,femmine,X1033,Mondo,2012,9644
+ITC1,Piemonte,in altre regioni,Italia,femmine,X1033,Mondo,2013,8781
+ITC1,Piemonte,in altre regioni,Italia,femmine,X1033,Mondo,2014,8638
+ITC1,Piemonte,in altre regioni,Italia,femmine,X1033,Mondo,2015,8582
+ITC1,Piemonte,in altre regioni,Italia,femmine,X1033,Mondo,2016,8710
+ITC1,Piemonte,in altre regioni,Italia,femmine,X1033,Mondo,2017,8413
+ITC1,Piemonte,in altre regioni,Italia,femmine,X1033,Mondo,2018,8570
+ITC1,Piemonte,in altre regioni,Italia,femmine,X1033,Mondo,2019,9180
+ITC1,Piemonte,in altre regioni,Italia,femmine,X1033,Mondo,2020,8606
+ITC1,Piemonte,in altre regioni,Italia,totale,X1033,Mondo,2011,17894
+ITC1,Piemonte,in altre regioni,Italia,totale,X1033,Mondo,2012,19937
+ITC1,Piemonte,in altre regioni,Italia,totale,X1033,Mondo,2013,18291
+ITC1,Piemonte,in altre regioni,Italia,totale,X1033,Mondo,2014,17846
+ITC1,Piemonte,in altre regioni,Italia,totale,X1033,Mondo,2015,17672
+ITC1,Piemonte,in altre regioni,Italia,totale,X1033,Mondo,2016,17987
+ITC1,Piemonte,in altre regioni,Italia,totale,X1033,Mondo,2017,17459
+ITC1,Piemonte,in altre regioni,Italia,totale,X1033,Mondo,2018,17628
+ITC1,Piemonte,in altre regioni,Italia,totale,X1033,Mondo,2019,19171
+ITC1,Piemonte,in altre regioni,Italia,totale,X1033,Mondo,2020,17901
+ITC1,Piemonte,estero,Italia,maschi,X1033,Mondo,2011,2156
+ITC1,Piemonte,estero,Italia,maschi,X1033,Mondo,2012,3015
+ITC1,Piemonte,estero,Italia,maschi,X1033,Mondo,2013,3472
+ITC1,Piemonte,estero,Italia,maschi,X1033,Mondo,2014,3587
+ITC1,Piemonte,estero,Italia,maschi,X1033,Mondo,2015,4403
+ITC1,Piemonte,estero,Italia,maschi,X1033,Mondo,2016,4622
+ITC1,Piemonte,estero,Italia,maschi,X1033,Mondo,2017,4773
+ITC1,Piemonte,estero,Italia,maschi,X1033,Mondo,2018,4967
+ITC1,Piemonte,estero,Italia,maschi,X1033,Mondo,2019,3714
+ITC1,Piemonte,estero,Italia,maschi,X1033,Mondo,2020,4853
+ITC1,Piemonte,estero,Italia,totale,X1033,Mondo,2011,3654
+ITC1,Piemonte,estero,Italia,totale,X1033,Mondo,2012,5148
+ITC1,Piemonte,estero,Italia,totale,X1033,Mondo,2013,5969
+ITC1,Piemonte,estero,Italia,totale,X1033,Mondo,2014,6237
+ITC1,Piemonte,estero,Italia,totale,X1033,Mondo,2015,7767
+ITC1,Piemonte,estero,Italia,totale,X1033,Mondo,2016,8232
+ITC1,Piemonte,estero,Italia,totale,X1033,Mondo,2017,8618
+ITC1,Piemonte,estero,Italia,totale,X1033,Mondo,2018,8851
+ITC1,Piemonte,estero,Italia,totale,X1033,Mondo,2019,6944
+ITC1,Piemonte,estero,Italia,totale,X1033,Mondo,2020,9198
+ITC2,Valle d'Aosta / Vallée d'Aoste,estero,Italia,totale,X1033,Mondo,2011,163
+ITC2,Valle d'Aosta / Vallée d'Aoste,estero,Italia,totale,X1033,Mondo,2012,164
+ITC2,Valle d'Aosta / Vallée d'Aoste,estero,Italia,totale,X1033,Mondo,2013,187
+ITC2,Valle d'Aosta / Vallée d'Aoste,estero,Italia,totale,X1033,Mondo,2014,226
+ITC2,Valle d'Aosta / Vallée d'Aoste,estero,Italia,totale,X1033,Mondo,2015,264
+ITC2,Valle d'Aosta / Vallée d'Aoste,estero,Italia,totale,X1033,Mondo,2016,261
+ITC2,Valle d'Aosta / Vallée d'Aoste,estero,Italia,totale,X1033,Mondo,2017,280
+ITC2,Valle d'Aosta / Vallée d'Aoste,estero,Italia,totale,X1033,Mondo,2018,360
+ITC2,Valle d'Aosta / Vallée d'Aoste,estero,Italia,totale,X1033,Mondo,2019,297
+ITC2,Valle d'Aosta / Vallée d'Aoste,estero,Italia,totale,X1033,Mondo,2020,366
+ITDA,Trentino Alto Adige / Südtirol,in altre regioni,Italia,maschi,X1033,Mondo,2011,1691
+ITDA,Trentino Alto Adige / Südtirol,in altre regioni,Italia,maschi,X1033,Mondo,2012,1731
+ITDA,Trentino Alto Adige / Südtirol,in altre regioni,Italia,maschi,X1033,Mondo,2013,1664
+ITDA,Trentino Alto Adige / Südtirol,in altre regioni,Italia,maschi,X1033,Mondo,2014,1716
+ITDA,Trentino Alto Adige / Südtirol,in altre regioni,Italia,maschi,X1033,Mondo,2015,1781
+ITDA,Trentino Alto Adige / Südtirol,in altre regioni,Italia,maschi,X1033,Mondo,2016,1813
+ITDA,Trentino Alto Adige / Südtirol,in altre regioni,Italia,maschi,X1033,Mondo,2017,1874
+ITDA,Trentino Alto Adige / Südtirol,in altre regioni,Italia,maschi,X1033,Mondo,2018,1891
+ITDA,Trentino Alto Adige / Südtirol,in altre regioni,Italia,maschi,X1033,Mondo,2019,2089
+ITDA,Trentino Alto Adige / Südtirol,in altre regioni,Italia,maschi,X1033,Mondo,2020,2029
+ITDA,Trentino Alto Adige / Südtirol,in altre regioni,Italia,totale,X1033,Mondo,2011,3222
+ITDA,Trentino Alto Adige / Südtirol,in altre regioni,Italia,totale,X1033,Mondo,2012,3345
+ITDA,Trentino Alto Adige / Südtirol,in altre regioni,Italia,totale,X1033,Mondo,2013,3230
+ITDA,Trentino Alto Adige / Südtirol,in altre regioni,Italia,totale,X1033,Mondo,2014,3269
+ITDA,Trentino Alto Adige / Südtirol,in altre regioni,Italia,totale,X1033,Mondo,2015,3387
+ITDA,Trentino Alto Adige / Südtirol,in altre regioni,Italia,totale,X1033,Mondo,2016,3484
+ITDA,Trentino Alto Adige / Südtirol,in altre regioni,Italia,totale,X1033,Mondo,2017,3553
+ITDA,Trentino Alto Adige / Südtirol,in altre regioni,Italia,totale,X1033,Mondo,2018,3567
+ITDA,Trentino Alto Adige / Südtirol,in altre regioni,Italia,totale,X1033,Mondo,2019,4001
+ITDA,Trentino Alto Adige / Südtirol,in altre regioni,Italia,totale,X1033,Mondo,2020,3897
+ITDA,Trentino Alto Adige / Südtirol,estero,Italia,maschi,X1033,Mondo,2011,673
+ITDA,Trentino Alto Adige / Südtirol,estero,Italia,maschi,X1033,Mondo,2012,1060
+ITDA,Trentino Alto Adige / Südtirol,estero,Italia,maschi,X1033,Mondo,2013,1090
+ITDA,Trentino Alto Adige / Südtirol,estero,Italia,maschi,X1033,Mondo,2014,1131
+ITDA,Trentino Alto Adige / Südtirol,estero,Italia,maschi,X1033,Mondo,2015,1400
+ITDA,Trentino Alto Adige / Südtirol,estero,Italia,maschi,X1033,Mondo,2016,1467
+ITDA,Trentino Alto Adige / Südtirol,estero,Italia,maschi,X1033,Mondo,2017,1589
+ITDA,Trentino Alto Adige / Südtirol,estero,Italia,maschi,X1033,Mondo,2018,1653
+ITDA,Trentino Alto Adige / Südtirol,estero,Italia,maschi,X1033,Mondo,2019,1933
+ITDA,Trentino Alto Adige / Südtirol,estero,Italia,maschi,X1033,Mondo,2020,1545
+ITDA,Trentino Alto Adige / Südtirol,estero,Italia,femmine,X1033,Mondo,2011,607
+ITDA,Trentino Alto Adige / Südtirol,estero,Italia,femmine,X1033,Mondo,2012,832
+ITDA,Trentino Alto Adige / Südtirol,estero,Italia,femmine,X1033,Mondo,2013,799
+ITDA,Trentino Alto Adige / Südtirol,estero,Italia,femmine,X1033,Mondo,2014,946
+ITDA,Trentino Alto Adige / Südtirol,estero,Italia,femmine,X1033,Mondo,2015,1190
+ITDA,Trentino Alto Adige / Südtirol,estero,Italia,femmine,X1033,Mondo,2016,1360
+ITDA,Trentino Alto Adige / Südtirol,estero,Italia,femmine,X1033,Mondo,2017,1332
+ITDA,Trentino Alto Adige / Südtirol,estero,Italia,femmine,X1033,Mondo,2018,1433
+ITDA,Trentino Alto Adige / Südtirol,estero,Italia,femmine,X1033,Mondo,2019,1687
+ITDA,Trentino Alto Adige / Südtirol,estero,Italia,femmine,X1033,Mondo,2020,1485
+ITD3,Veneto,in altre regioni,Italia,maschi,X1033,Mondo,2011,7244
+ITD3,Veneto,in altre regioni,Italia,maschi,X1033,Mondo,2012,7755
+ITD3,Veneto,in altre regioni,Italia,maschi,X1033,Mondo,2013,7171
+ITD3,Veneto,in altre regioni,Italia,maschi,X1033,Mondo,2014,6824
+ITD3,Veneto,in altre regioni,Italia,maschi,X1033,Mondo,2015,7082
+ITD3,Veneto,in altre regioni,Italia,maschi,X1033,Mondo,2016,7279
+ITD3,Veneto,in altre regioni,Italia,maschi,X1033,Mondo,2017,7254
+ITD3,Veneto,in altre regioni,Italia,maschi,X1033,Mondo,2018,7467
+ITD3,Veneto,in altre regioni,Italia,maschi,X1033,Mondo,2019,8060
+ITD3,Veneto,in altre regioni,Italia,maschi,X1033,Mondo,2020,7634
+ITD3,Veneto,in altre regioni,Italia,totale,X1033,Mondo,2011,14444
+ITD3,Veneto,in altre regioni,Italia,totale,X1033,Mondo,2012,15477
+ITD3,Veneto,in altre regioni,Italia,totale,X1033,Mondo,2013,14330
+ITD3,Veneto,in altre regioni,Italia,totale,X1033,Mondo,2014,13656
+ITD3,Veneto,in altre regioni,Italia,totale,X1033,Mondo,2015,13952
+ITD3,Veneto,in altre regioni,Italia,totale,X1033,Mondo,2016,14529
+ITD3,Veneto,in altre regioni,Italia,totale,X1033,Mondo,2017,14392
+ITD3,Veneto,in altre regioni,Italia,totale,X1033,Mondo,2018,14660
+ITD3,Veneto,in altre regioni,Italia,totale,X1033,Mondo,2019,15996
+ITD3,Veneto,in altre regioni,Italia,totale,X1033,Mondo,2020,15173
+ITD3,Veneto,estero,Italia,maschi,X1033,Mondo,2011,2643
+ITD3,Veneto,estero,Italia,maschi,X1033,Mondo,2012,3784
+ITD3,Veneto,estero,Italia,maschi,X1033,Mondo,2013,4307
+ITD3,Veneto,estero,Italia,maschi,X1033,Mondo,2014,4511
+ITD3,Veneto,estero,Italia,maschi,X1033,Mondo,2015,5414
+ITD3,Veneto,estero,Italia,maschi,X1033,Mondo,2016,5914
+ITD3,Veneto,estero,Italia,maschi,X1033,Mondo,2017,5908
+ITD3,Veneto,estero,Italia,maschi,X1033,Mondo,2018,6455
+ITD3,Veneto,estero,Italia,maschi,X1033,Mondo,2019,6452
+ITD3,Veneto,estero,Italia,maschi,X1033,Mondo,2020,6279
+ITD3,Veneto,estero,Italia,femmine,X1033,Mondo,2011,1953
+ITD3,Veneto,estero,Italia,femmine,X1033,Mondo,2012,2789
+ITD3,Veneto,estero,Italia,femmine,X1033,Mondo,2013,3060
+ITD3,Veneto,estero,Italia,femmine,X1033,Mondo,2014,3392
+ITD3,Veneto,estero,Italia,femmine,X1033,Mondo,2015,4085
+ITD3,Veneto,estero,Italia,femmine,X1033,Mondo,2016,4837
+ITD3,Veneto,estero,Italia,femmine,X1033,Mondo,2017,4801
+ITD3,Veneto,estero,Italia,femmine,X1033,Mondo,2018,5124
+ITD3,Veneto,estero,Italia,femmine,X1033,Mondo,2019,5397
+ITD3,Veneto,estero,Italia,femmine,X1033,Mondo,2020,5483
+ITE2,Umbria,in altre regioni,Italia,femmine,X1033,Mondo,2011,2107
+ITE2,Umbria,in altre regioni,Italia,femmine,X1033,Mondo,2012,2603
+ITE2,Umbria,in altre regioni,Italia,femmine,X1033,Mondo,2013,2173
+ITE2,Umbria,in altre regioni,Italia,femmine,X1033,Mondo,2014,2242
+ITE2,Umbria,in altre regioni,Italia,femmine,X1033,Mondo,2015,2203
+ITE2,Umbria,in altre regioni,Italia,femmine,X1033,Mondo,2016,2257
+ITE2,Umbria,in altre regioni,Italia,femmine,X1033,Mondo,2017,2210
+ITE2,Umbria,in altre regioni,Italia,femmine,X1033,Mondo,2018,2220
+ITE2,Umbria,in altre regioni,Italia,femmine,X1033,Mondo,2019,2404
+ITE2,Umbria,in altre regioni,Italia,femmine,X1033,Mondo,2020,2101
+ITE2,Umbria,estero,Italia,totale,X1033,Mondo,2011,604
+ITE2,Umbria,estero,Italia,totale,X1033,Mondo,2012,910
+ITE2,Umbria,estero,Italia,totale,X1033,Mondo,2013,1098
+ITE2,Umbria,estero,Italia,totale,X1033,Mondo,2014,1119
+ITE2,Umbria,estero,Italia,totale,X1033,Mondo,2015,1228
+ITE2,Umbria,estero,Italia,totale,X1033,Mondo,2016,1342
+ITE2,Umbria,estero,Italia,totale,X1033,Mondo,2017,1512
+ITE2,Umbria,estero,Italia,totale,X1033,Mondo,2018,1630
+ITE2,Umbria,estero,Italia,totale,X1033,Mondo,2019,1675
+ITE2,Umbria,estero,Italia,totale,X1033,Mondo,2020,1727
+ITF1,Abruzzo,in altre regioni,Italia,femmine,X1033,Mondo,2011,3201
+ITF1,Abruzzo,in altre regioni,Italia,femmine,X1033,Mondo,2012,4222
+ITF1,Abruzzo,in altre regioni,Italia,femmine,X1033,Mondo,2013,3648
+ITF1,Abruzzo,in altre regioni,Italia,femmine,X1033,Mondo,2014,3635
+ITF1,Abruzzo,in altre regioni,Italia,femmine,X1033,Mondo,2015,3581
+ITF1,Abruzzo,in altre regioni,Italia,femmine,X1033,Mondo,2016,3670
+ITF1,Abruzzo,in altre regioni,Italia,femmine,X1033,Mondo,2017,3693
+ITF1,Abruzzo,in altre regioni,Italia,femmine,X1033,Mondo,2018,3561
+ITF1,Abruzzo,in altre regioni,Italia,femmine,X1033,Mondo,2019,3967
+ITF1,Abruzzo,in altre regioni,Italia,femmine,X1033,Mondo,2020,3395
+ITF5,Basilicata,in altre regioni,Italia,femmine,X1033,Mondo,2011,2053
+ITF5,Basilicata,in altre regioni,Italia,femmine,X1033,Mondo,2012,2413
+ITF5,Basilicata,in altre regioni,Italia,femmine,X1033,Mondo,2013,1986
+ITF5,Basilicata,in altre regioni,Italia,femmine,X1033,Mondo,2014,2048
+ITF5,Basilicata,in altre regioni,Italia,femmine,X1033,Mondo,2015,1990
+ITF5,Basilicata,in altre regioni,Italia,femmine,X1033,Mondo,2016,2187
+ITF5,Basilicata,in altre regioni,Italia,femmine,X1033,Mondo,2017,2207
+ITF5,Basilicata,in altre regioni,Italia,femmine,X1033,Mondo,2018,2160
+ITF5,Basilicata,in altre regioni,Italia,femmine,X1033,Mondo,2019,2351
+ITF5,Basilicata,in altre regioni,Italia,femmine,X1033,Mondo,2020,2030
+ITG1,Sicilia,in altre regioni,Italia,totale,X1033,Mondo,2011,24447
+ITG1,Sicilia,in altre regioni,Italia,totale,X1033,Mondo,2012,28100
+ITG1,Sicilia,in altre regioni,Italia,totale,X1033,Mondo,2013,24441
+ITG1,Sicilia,in altre regioni,Italia,totale,X1033,Mondo,2014,23582
+ITG1,Sicilia,in altre regioni,Italia,totale,X1033,Mondo,2015,23880
+ITG1,Sicilia,in altre regioni,Italia,totale,X1033,Mondo,2016,25570
+ITG1,Sicilia,in altre regioni,Italia,totale,X1033,Mondo,2017,26161
+ITG1,Sicilia,in altre regioni,Italia,totale,X1033,Mondo,2018,27932
+ITG1,Sicilia,in altre regioni,Italia,totale,X1033,Mondo,2019,31965
+ITG1,Sicilia,in altre regioni,Italia,totale,X1033,Mondo,2020,24906
+ITG1,Sicilia,estero,Italia,maschi,X1033,Mondo,2011,2595
+ITG1,Sicilia,estero,Italia,maschi,X1033,Mondo,2012,3410
+ITG1,Sicilia,estero,Italia,maschi,X1033,Mondo,2013,4073
+ITG1,Sicilia,estero,Italia,maschi,X1033,Mondo,2014,5197
+ITG1,Sicilia,estero,Italia,maschi,X1033,Mondo,2015,5910
+ITG1,Sicilia,estero,Italia,maschi,X1033,Mondo,2016,5982
+ITG1,Sicilia,estero,Italia,maschi,X1033,Mondo,2017,6256
+ITG1,Sicilia,estero,Italia,maschi,X1033,Mondo,2018,6491
+ITG1,Sicilia,estero,Italia,maschi,X1033,Mondo,2019,6860
+ITG1,Sicilia,estero,Italia,maschi,X1033,Mondo,2020,5918
+ITF2,Molise,estero,Italia,maschi,X1033,Mondo,2011,174
+ITF2,Molise,estero,Italia,maschi,X1033,Mondo,2012,255
+ITF2,Molise,estero,Italia,maschi,X1033,Mondo,2013,247
+ITF2,Molise,estero,Italia,maschi,X1033,Mondo,2014,276
+ITF2,Molise,estero,Italia,maschi,X1033,Mondo,2015,295
+ITF2,Molise,estero,Italia,maschi,X1033,Mondo,2016,342
+ITF2,Molise,estero,Italia,maschi,X1033,Mondo,2017,315
+ITF2,Molise,estero,Italia,maschi,X1033,Mondo,2018,391
+ITF2,Molise,estero,Italia,maschi,X1033,Mondo,2019,373
+ITF2,Molise,estero,Italia,maschi,X1033,Mondo,2020,439
+ITE4,Lazio,estero,Italia,maschi,X1033,Mondo,2011,2711
+ITE4,Lazio,estero,Italia,maschi,X1033,Mondo,2012,3185
+ITE4,Lazio,estero,Italia,maschi,X1033,Mondo,2013,4434
+ITE4,Lazio,estero,Italia,maschi,X1033,Mondo,2014,4377
+ITE4,Lazio,estero,Italia,maschi,X1033,Mondo,2015,5171
+ITE4,Lazio,estero,Italia,maschi,X1033,Mondo,2016,6078
+ITE4,Lazio,estero,Italia,maschi,X1033,Mondo,2017,5551
+ITE4,Lazio,estero,Italia,maschi,X1033,Mondo,2018,5655
+ITE4,Lazio,estero,Italia,maschi,X1033,Mondo,2019,4807
+ITE4,Lazio,estero,Italia,maschi,X1033,Mondo,2020,4530
+ITD5,Emilia-Romagna,in altre regioni,Italia,totale,X1033,Mondo,2011,20089
+ITD5,Emilia-Romagna,in altre regioni,Italia,totale,X1033,Mondo,2012,22691
+ITD5,Emilia-Romagna,in altre regioni,Italia,totale,X1033,Mondo,2013,20097
+ITD5,Emilia-Romagna,in altre regioni,Italia,totale,X1033,Mondo,2014,19207
+ITD5,Emilia-Romagna,in altre regioni,Italia,totale,X1033,Mondo,2015,19069
+ITD5,Emilia-Romagna,in altre regioni,Italia,totale,X1033,Mondo,2016,18929
+ITD5,Emilia-Romagna,in altre regioni,Italia,totale,X1033,Mondo,2017,18301
+ITD5,Emilia-Romagna,in altre regioni,Italia,totale,X1033,Mondo,2018,18499
+ITD5,Emilia-Romagna,in altre regioni,Italia,totale,X1033,Mondo,2019,20928
+ITD5,Emilia-Romagna,in altre regioni,Italia,totale,X1033,Mondo,2020,19279
+ITD5,Emilia-Romagna,estero,Italia,maschi,X1033,Mondo,2011,2029
+ITD5,Emilia-Romagna,estero,Italia,maschi,X1033,Mondo,2012,2749
+ITD5,Emilia-Romagna,estero,Italia,maschi,X1033,Mondo,2013,3306
+ITD5,Emilia-Romagna,estero,Italia,maschi,X1033,Mondo,2014,3367
+ITD5,Emilia-Romagna,estero,Italia,maschi,X1033,Mondo,2015,3878
+ITD5,Emilia-Romagna,estero,Italia,maschi,X1033,Mondo,2016,4613
+ITD5,Emilia-Romagna,estero,Italia,maschi,X1033,Mondo,2017,4391
+ITD5,Emilia-Romagna,estero,Italia,maschi,X1033,Mondo,2018,4381
+ITD5,Emilia-Romagna,estero,Italia,maschi,X1033,Mondo,2019,4100
+ITD5,Emilia-Romagna,estero,Italia,maschi,X1033,Mondo,2020,5203
+ITE3,Marche,estero,Italia,maschi,X1033,Mondo,2011,695
+ITE3,Marche,estero,Italia,maschi,X1033,Mondo,2012,899
+ITE3,Marche,estero,Italia,maschi,X1033,Mondo,2013,1169
+ITE3,Marche,estero,Italia,maschi,X1033,Mondo,2014,1284
+ITE3,Marche,estero,Italia,maschi,X1033,Mondo,2015,1489
+ITE3,Marche,estero,Italia,maschi,X1033,Mondo,2016,1743
+ITE3,Marche,estero,Italia,maschi,X1033,Mondo,2017,1762
+ITE3,Marche,estero,Italia,maschi,X1033,Mondo,2018,1906
+ITE3,Marche,estero,Italia,maschi,X1033,Mondo,2019,2073
+ITE3,Marche,estero,Italia,maschi,X1033,Mondo,2020,2003
+ITE4,Lazio,in altre regioni,Italia,maschi,X1033,Mondo,2011,10855
+ITE4,Lazio,in altre regioni,Italia,maschi,X1033,Mondo,2012,13578
+ITE4,Lazio,in altre regioni,Italia,maschi,X1033,Mondo,2013,11689
+ITE4,Lazio,in altre regioni,Italia,maschi,X1033,Mondo,2014,11527
+ITE4,Lazio,in altre regioni,Italia,maschi,X1033,Mondo,2015,12146
+ITE4,Lazio,in altre regioni,Italia,maschi,X1033,Mondo,2016,12200
+ITE4,Lazio,in altre regioni,Italia,maschi,X1033,Mondo,2017,11966
+ITE4,Lazio,in altre regioni,Italia,maschi,X1033,Mondo,2018,12309
+ITE4,Lazio,in altre regioni,Italia,maschi,X1033,Mondo,2019,13524
+ITE4,Lazio,in altre regioni,Italia,maschi,X1033,Mondo,2020,12567
+ITF1,Abruzzo,in altre regioni,Italia,maschi,X1033,Mondo,2011,3221
+ITF1,Abruzzo,in altre regioni,Italia,maschi,X1033,Mondo,2012,4046
+ITF1,Abruzzo,in altre regioni,Italia,maschi,X1033,Mondo,2013,3645
+ITF1,Abruzzo,in altre regioni,Italia,maschi,X1033,Mondo,2014,3704
+ITF1,Abruzzo,in altre regioni,Italia,maschi,X1033,Mondo,2015,3803
+ITF1,Abruzzo,in altre regioni,Italia,maschi,X1033,Mondo,2016,3815
+ITF1,Abruzzo,in altre regioni,Italia,maschi,X1033,Mondo,2017,3589
+ITF1,Abruzzo,in altre regioni,Italia,maschi,X1033,Mondo,2018,3658
+ITF1,Abruzzo,in altre regioni,Italia,maschi,X1033,Mondo,2019,4065
+ITF1,Abruzzo,in altre regioni,Italia,maschi,X1033,Mondo,2020,3369
+ITF2,Molise,in altre regioni,Italia,totale,X1033,Mondo,2011,2423
+ITF2,Molise,in altre regioni,Italia,totale,X1033,Mondo,2012,2914
+ITF2,Molise,in altre regioni,Italia,totale,X1033,Mondo,2013,2533
+ITF2,Molise,in altre regioni,Italia,totale,X1033,Mondo,2014,2529
+ITF2,Molise,in altre regioni,Italia,totale,X1033,Mondo,2015,2558
+ITF2,Molise,in altre regioni,Italia,totale,X1033,Mondo,2016,2759
+ITF2,Molise,in altre regioni,Italia,totale,X1033,Mondo,2017,2643
+ITF2,Molise,in altre regioni,Italia,totale,X1033,Mondo,2018,2763
+ITF2,Molise,in altre regioni,Italia,totale,X1033,Mondo,2019,3111
+ITF2,Molise,in altre regioni,Italia,totale,X1033,Mondo,2020,2617
+ITD5,Emilia-Romagna,in altre regioni,Italia,femmine,X1033,Mondo,2011,9608
+ITD5,Emilia-Romagna,in altre regioni,Italia,femmine,X1033,Mondo,2012,11090
+ITD5,Emilia-Romagna,in altre regioni,Italia,femmine,X1033,Mondo,2013,9599
+ITD5,Emilia-Romagna,in altre regioni,Italia,femmine,X1033,Mondo,2014,9212
+ITD5,Emilia-Romagna,in altre regioni,Italia,femmine,X1033,Mondo,2015,9229
+ITD5,Emilia-Romagna,in altre regioni,Italia,femmine,X1033,Mondo,2016,9195
+ITD5,Emilia-Romagna,in altre regioni,Italia,femmine,X1033,Mondo,2017,8946
+ITD5,Emilia-Romagna,in altre regioni,Italia,femmine,X1033,Mondo,2018,9024
+ITD5,Emilia-Romagna,in altre regioni,Italia,femmine,X1033,Mondo,2019,10081
+ITD5,Emilia-Romagna,in altre regioni,Italia,femmine,X1033,Mondo,2020,9150
+ITC2,Valle d'Aosta / Vallée d'Aoste,in altre regioni,Italia,totale,X1033,Mondo,2011,1091
+ITC2,Valle d'Aosta / Vallée d'Aoste,in altre regioni,Italia,totale,X1033,Mondo,2012,1073
+ITC2,Valle d'Aosta / Vallée d'Aoste,in altre regioni,Italia,totale,X1033,Mondo,2013,905
+ITC2,Valle d'Aosta / Vallée d'Aoste,in altre regioni,Italia,totale,X1033,Mondo,2014,965
+ITC2,Valle d'Aosta / Vallée d'Aoste,in altre regioni,Italia,totale,X1033,Mondo,2015,1028
+ITC2,Valle d'Aosta / Vallée d'Aoste,in altre regioni,Italia,totale,X1033,Mondo,2016,966
+ITC2,Valle d'Aosta / Vallée d'Aoste,in altre regioni,Italia,totale,X1033,Mondo,2017,913
+ITC2,Valle d'Aosta / Vallée d'Aoste,in altre regioni,Italia,totale,X1033,Mondo,2018,988
+ITC2,Valle d'Aosta / Vallée d'Aoste,in altre regioni,Italia,totale,X1033,Mondo,2019,978
+ITC2,Valle d'Aosta / Vallée d'Aoste,in altre regioni,Italia,totale,X1033,Mondo,2020,951
+ITE3,Marche,in altre regioni,Italia,femmine,X1033,Mondo,2011,3124
+ITE3,Marche,in altre regioni,Italia,femmine,X1033,Mondo,2012,3602
+ITE3,Marche,in altre regioni,Italia,femmine,X1033,Mondo,2013,3398
+ITE3,Marche,in altre regioni,Italia,femmine,X1033,Mondo,2014,3002
+ITE3,Marche,in altre regioni,Italia,femmine,X1033,Mondo,2015,3098
+ITE3,Marche,in altre regioni,Italia,femmine,X1033,Mondo,2016,3145
+ITE3,Marche,in altre regioni,Italia,femmine,X1033,Mondo,2017,3175
+ITE3,Marche,in altre regioni,Italia,femmine,X1033,Mondo,2018,3087
+ITE3,Marche,in altre regioni,Italia,femmine,X1033,Mondo,2019,3485
+ITE3,Marche,in altre regioni,Italia,femmine,X1033,Mondo,2020,3047
+ITE2,Umbria,estero,Italia,maschi,X1033,Mondo,2011,334
+ITE2,Umbria,estero,Italia,maschi,X1033,Mondo,2012,541
+ITE2,Umbria,estero,Italia,maschi,X1033,Mondo,2013,640
+ITE2,Umbria,estero,Italia,maschi,X1033,Mondo,2014,619
+ITE2,Umbria,estero,Italia,maschi,X1033,Mondo,2015,710
+ITE2,Umbria,estero,Italia,maschi,X1033,Mondo,2016,756
+ITE2,Umbria,estero,Italia,maschi,X1033,Mondo,2017,859
+ITE2,Umbria,estero,Italia,maschi,X1033,Mondo,2018,929
+ITE2,Umbria,estero,Italia,maschi,X1033,Mondo,2019,914
+ITE2,Umbria,estero,Italia,maschi,X1033,Mondo,2020,945
+ITE2,Umbria,in altre regioni,Italia,totale,X1033,Mondo,2011,4298
+ITE2,Umbria,in altre regioni,Italia,totale,X1033,Mondo,2012,5217
+ITE2,Umbria,in altre regioni,Italia,totale,X1033,Mondo,2013,4647
+ITE2,Umbria,in altre regioni,Italia,totale,X1033,Mondo,2014,4558
+ITE2,Umbria,in altre regioni,Italia,totale,X1033,Mondo,2015,4553
+ITE2,Umbria,in altre regioni,Italia,totale,X1033,Mondo,2016,4557
+ITE2,Umbria,in altre regioni,Italia,totale,X1033,Mondo,2017,4443
+ITE2,Umbria,in altre regioni,Italia,totale,X1033,Mondo,2018,4473
+ITE2,Umbria,in altre regioni,Italia,totale,X1033,Mondo,2019,4893
+ITE2,Umbria,in altre regioni,Italia,totale,X1033,Mondo,2020,4260
+ITD5,Emilia-Romagna,estero,Italia,femmine,X1033,Mondo,2011,1439
+ITD5,Emilia-Romagna,estero,Italia,femmine,X1033,Mondo,2012,1970
+ITD5,Emilia-Romagna,estero,Italia,femmine,X1033,Mondo,2013,2500
+ITD5,Emilia-Romagna,estero,Italia,femmine,X1033,Mondo,2014,2598
+ITD5,Emilia-Romagna,estero,Italia,femmine,X1033,Mondo,2015,3049
+ITD5,Emilia-Romagna,estero,Italia,femmine,X1033,Mondo,2016,3675
+ITD5,Emilia-Romagna,estero,Italia,femmine,X1033,Mondo,2017,3646
+ITD5,Emilia-Romagna,estero,Italia,femmine,X1033,Mondo,2018,3719
+ITD5,Emilia-Romagna,estero,Italia,femmine,X1033,Mondo,2019,3674
+ITD5,Emilia-Romagna,estero,Italia,femmine,X1033,Mondo,2020,4512
+ITD4,Friuli-Venezia Giulia,estero,Italia,totale,X1033,Mondo,2011,1487
+ITD4,Friuli-Venezia Giulia,estero,Italia,totale,X1033,Mondo,2012,1648
+ITD4,Friuli-Venezia Giulia,estero,Italia,totale,X1033,Mondo,2013,2191
+ITD4,Friuli-Venezia Giulia,estero,Italia,totale,X1033,Mondo,2014,2354
+ITD4,Friuli-Venezia Giulia,estero,Italia,totale,X1033,Mondo,2015,2632
+ITD4,Friuli-Venezia Giulia,estero,Italia,totale,X1033,Mondo,2016,2896
+ITD4,Friuli-Venezia Giulia,estero,Italia,totale,X1033,Mondo,2017,2863
+ITD4,Friuli-Venezia Giulia,estero,Italia,totale,X1033,Mondo,2018,2795
+ITD4,Friuli-Venezia Giulia,estero,Italia,totale,X1033,Mondo,2019,3438
+ITD4,Friuli-Venezia Giulia,estero,Italia,totale,X1033,Mondo,2020,2673
+ITC3,Liguria,in altre regioni,Italia,maschi,X1033,Mondo,2011,4843
+ITC3,Liguria,in altre regioni,Italia,maschi,X1033,Mondo,2012,5456
+ITC3,Liguria,in altre regioni,Italia,maschi,X1033,Mondo,2013,5026
+ITC3,Liguria,in altre regioni,Italia,maschi,X1033,Mondo,2014,4655
+ITC3,Liguria,in altre regioni,Italia,maschi,X1033,Mondo,2015,4544
+ITC3,Liguria,in altre regioni,Italia,maschi,X1033,Mondo,2016,4633
+ITC3,Liguria,in altre regioni,Italia,maschi,X1033,Mondo,2017,4568
+ITC3,Liguria,in altre regioni,Italia,maschi,X1033,Mondo,2018,4564
+ITC3,Liguria,in altre regioni,Italia,maschi,X1033,Mondo,2019,4996
+ITC3,Liguria,in altre regioni,Italia,maschi,X1033,Mondo,2020,4740
+ITC3,Liguria,estero,Italia,femmine,X1033,Mondo,2011,635
+ITC3,Liguria,estero,Italia,femmine,X1033,Mondo,2012,888
+ITC3,Liguria,estero,Italia,femmine,X1033,Mondo,2013,1076
+ITC3,Liguria,estero,Italia,femmine,X1033,Mondo,2014,1084
+ITC3,Liguria,estero,Italia,femmine,X1033,Mondo,2015,1193
+ITC3,Liguria,estero,Italia,femmine,X1033,Mondo,2016,1212
+ITC3,Liguria,estero,Italia,femmine,X1033,Mondo,2017,1321
+ITC3,Liguria,estero,Italia,femmine,X1033,Mondo,2018,1333
+ITC3,Liguria,estero,Italia,femmine,X1033,Mondo,2019,1059
+ITC3,Liguria,estero,Italia,femmine,X1033,Mondo,2020,1333
+ITD4,Friuli-Venezia Giulia,in altre regioni,Italia,femmine,X1033,Mondo,2011,2229
+ITD4,Friuli-Venezia Giulia,in altre regioni,Italia,femmine,X1033,Mondo,2012,2563
+ITD4,Friuli-Venezia Giulia,in altre regioni,Italia,femmine,X1033,Mondo,2013,2325
+ITD4,Friuli-Venezia Giulia,in altre regioni,Italia,femmine,X1033,Mondo,2014,2402
+ITD4,Friuli-Venezia Giulia,in altre regioni,Italia,femmine,X1033,Mondo,2015,2399
+ITD4,Friuli-Venezia Giulia,in altre regioni,Italia,femmine,X1033,Mondo,2016,2386
+ITD4,Friuli-Venezia Giulia,in altre regioni,Italia,femmine,X1033,Mondo,2017,2448
+ITD4,Friuli-Venezia Giulia,in altre regioni,Italia,femmine,X1033,Mondo,2018,2406
+ITD4,Friuli-Venezia Giulia,in altre regioni,Italia,femmine,X1033,Mondo,2019,2711
+ITD4,Friuli-Venezia Giulia,in altre regioni,Italia,femmine,X1033,Mondo,2020,2395
+ITC2,Valle d'Aosta / Vallée d'Aoste,estero,Italia,maschi,X1033,Mondo,2011,91
+ITC2,Valle d'Aosta / Vallée d'Aoste,estero,Italia,maschi,X1033,Mondo,2012,94
+ITC2,Valle d'Aosta / Vallée d'Aoste,estero,Italia,maschi,X1033,Mondo,2013,101
+ITC2,Valle d'Aosta / Vallée d'Aoste,estero,Italia,maschi,X1033,Mondo,2014,127
+ITC2,Valle d'Aosta / Vallée d'Aoste,estero,Italia,maschi,X1033,Mondo,2015,144
+ITC2,Valle d'Aosta / Vallée d'Aoste,estero,Italia,maschi,X1033,Mondo,2016,129
+ITC2,Valle d'Aosta / Vallée d'Aoste,estero,Italia,maschi,X1033,Mondo,2017,157
+ITC2,Valle d'Aosta / Vallée d'Aoste,estero,Italia,maschi,X1033,Mondo,2018,202
+ITC2,Valle d'Aosta / Vallée d'Aoste,estero,Italia,maschi,X1033,Mondo,2019,149
+ITC2,Valle d'Aosta / Vallée d'Aoste,estero,Italia,maschi,X1033,Mondo,2020,207
+ITF4,Puglia,in altre regioni,Italia,totale,X1033,Mondo,2011,22318
+ITF4,Puglia,in altre regioni,Italia,totale,X1033,Mondo,2012,25581
+ITF4,Puglia,in altre regioni,Italia,totale,X1033,Mondo,2013,21970
+ITF4,Puglia,in altre regioni,Italia,totale,X1033,Mondo,2014,20573
+ITF4,Puglia,in altre regioni,Italia,totale,X1033,Mondo,2015,20034
+ITF4,Puglia,in altre regioni,Italia,totale,X1033,Mondo,2016,20501
+ITF4,Puglia,in altre regioni,Italia,totale,X1033,Mondo,2017,20744
+ITF4,Puglia,in altre regioni,Italia,totale,X1033,Mondo,2018,22131
+ITF4,Puglia,in altre regioni,Italia,totale,X1033,Mondo,2019,24115
+ITF4,Puglia,in altre regioni,Italia,totale,X1033,Mondo,2020,19314
+ITE4,Lazio,in altre regioni,Italia,totale,X1033,Mondo,2011,21668
+ITE4,Lazio,in altre regioni,Italia,totale,X1033,Mondo,2012,26684
+ITE4,Lazio,in altre regioni,Italia,totale,X1033,Mondo,2013,22861
+ITE4,Lazio,in altre regioni,Italia,totale,X1033,Mondo,2014,22465
+ITE4,Lazio,in altre regioni,Italia,totale,X1033,Mondo,2015,23441
+ITE4,Lazio,in altre regioni,Italia,totale,X1033,Mondo,2016,24244
+ITE4,Lazio,in altre regioni,Italia,totale,X1033,Mondo,2017,23730
+ITE4,Lazio,in altre regioni,Italia,totale,X1033,Mondo,2018,24398
+ITE4,Lazio,in altre regioni,Italia,totale,X1033,Mondo,2019,26491
+ITE4,Lazio,in altre regioni,Italia,totale,X1033,Mondo,2020,24187
+ITC2,Valle d'Aosta / Vallée d'Aoste,in altre regioni,Italia,femmine,X1033,Mondo,2011,517
+ITC2,Valle d'Aosta / Vallée d'Aoste,in altre regioni,Italia,femmine,X1033,Mondo,2012,496
+ITC2,Valle d'Aosta / Vallée d'Aoste,in altre regioni,Italia,femmine,X1033,Mondo,2013,433
+ITC2,Valle d'Aosta / Vallée d'Aoste,in altre regioni,Italia,femmine,X1033,Mondo,2014,458
+ITC2,Valle d'Aosta / Vallée d'Aoste,in altre regioni,Italia,femmine,X1033,Mondo,2015,498
+ITC2,Valle d'Aosta / Vallée d'Aoste,in altre regioni,Italia,femmine,X1033,Mondo,2016,459
+ITC2,Valle d'Aosta / Vallée d'Aoste,in altre regioni,Italia,femmine,X1033,Mondo,2017,450
+ITC2,Valle d'Aosta / Vallée d'Aoste,in altre regioni,Italia,femmine,X1033,Mondo,2018,456
+ITC2,Valle d'Aosta / Vallée d'Aoste,in altre regioni,Italia,femmine,X1033,Mondo,2019,465
+ITC2,Valle d'Aosta / Vallée d'Aoste,in altre regioni,Italia,femmine,X1033,Mondo,2020,428
+ITD5,Emilia-Romagna,in altre regioni,Italia,maschi,X1033,Mondo,2011,10481
+ITD5,Emilia-Romagna,in altre regioni,Italia,maschi,X1033,Mondo,2012,11601
+ITD5,Emilia-Romagna,in altre regioni,Italia,maschi,X1033,Mondo,2013,10498
+ITD5,Emilia-Romagna,in altre regioni,Italia,maschi,X1033,Mondo,2014,9995
+ITD5,Emilia-Romagna,in altre regioni,Italia,maschi,X1033,Mondo,2015,9840
+ITD5,Emilia-Romagna,in altre regioni,Italia,maschi,X1033,Mondo,2016,9734
+ITD5,Emilia-Romagna,in altre regioni,Italia,maschi,X1033,Mondo,2017,9355
+ITD5,Emilia-Romagna,in altre regioni,Italia,maschi,X1033,Mondo,2018,9475
+ITD5,Emilia-Romagna,in altre regioni,Italia,maschi,X1033,Mondo,2019,10847
+ITD5,Emilia-Romagna,in altre regioni,Italia,maschi,X1033,Mondo,2020,10129
+ITE3,Marche,in altre regioni,Italia,totale,X1033,Mondo,2011,6149
+ITE3,Marche,in altre regioni,Italia,totale,X1033,Mondo,2012,7182
+ITE3,Marche,in altre regioni,Italia,totale,X1033,Mondo,2013,6847
+ITE3,Marche,in altre regioni,Italia,totale,X1033,Mondo,2014,6014
+ITE3,Marche,in altre regioni,Italia,totale,X1033,Mondo,2015,6153
+ITE3,Marche,in altre regioni,Italia,totale,X1033,Mondo,2016,6344
+ITE3,Marche,in altre regioni,Italia,totale,X1033,Mondo,2017,6315
+ITE3,Marche,in altre regioni,Italia,totale,X1033,Mondo,2018,6297
+ITE3,Marche,in altre regioni,Italia,totale,X1033,Mondo,2019,7040
+ITE3,Marche,in altre regioni,Italia,totale,X1033,Mondo,2020,6168
+ITC4,Lombardia,in altre regioni,Italia,maschi,X1033,Mondo,2011,17042
+ITC4,Lombardia,in altre regioni,Italia,maschi,X1033,Mondo,2012,19318
+ITC4,Lombardia,in altre regioni,Italia,maschi,X1033,Mondo,2013,17824
+ITC4,Lombardia,in altre regioni,Italia,maschi,X1033,Mondo,2014,17318
+ITC4,Lombardia,in altre regioni,Italia,maschi,X1033,Mondo,2015,17224
+ITC4,Lombardia,in altre regioni,Italia,maschi,X1033,Mondo,2016,17511
+ITC4,Lombardia,in altre regioni,Italia,maschi,X1033,Mondo,2017,17405
+ITC4,Lombardia,in altre regioni,Italia,maschi,X1033,Mondo,2018,17114
+ITC4,Lombardia,in altre regioni,Italia,maschi,X1033,Mondo,2019,19632
+ITC4,Lombardia,in altre regioni,Italia,maschi,X1033,Mondo,2020,19515
+ITC4,Lombardia,estero,Italia,femmine,X1033,Mondo,2011,4165
+ITC4,Lombardia,estero,Italia,femmine,X1033,Mondo,2012,5893
+ITC4,Lombardia,estero,Italia,femmine,X1033,Mondo,2013,6960
+ITC4,Lombardia,estero,Italia,femmine,X1033,Mondo,2014,7587
+ITC4,Lombardia,estero,Italia,femmine,X1033,Mondo,2015,8649
+ITC4,Lombardia,estero,Italia,femmine,X1033,Mondo,2016,9911
+ITC4,Lombardia,estero,Italia,femmine,X1033,Mondo,2017,9802
+ITC4,Lombardia,estero,Italia,femmine,X1033,Mondo,2018,9802
+ITC4,Lombardia,estero,Italia,femmine,X1033,Mondo,2019,10431
+ITC4,Lombardia,estero,Italia,femmine,X1033,Mondo,2020,10726
+ITC3,Liguria,in altre regioni,Italia,femmine,X1033,Mondo,2011,4861
+ITC3,Liguria,in altre regioni,Italia,femmine,X1033,Mondo,2012,5951
+ITC3,Liguria,in altre regioni,Italia,femmine,X1033,Mondo,2013,5250
+ITC3,Liguria,in altre regioni,Italia,femmine,X1033,Mondo,2014,4859
+ITC3,Liguria,in altre regioni,Italia,femmine,X1033,Mondo,2015,4668
+ITC3,Liguria,in altre regioni,Italia,femmine,X1033,Mondo,2016,4624
+ITC3,Liguria,in altre regioni,Italia,femmine,X1033,Mondo,2017,4634
+ITC3,Liguria,in altre regioni,Italia,femmine,X1033,Mondo,2018,4498
+ITC3,Liguria,in altre regioni,Italia,femmine,X1033,Mondo,2019,5096
+ITC3,Liguria,in altre regioni,Italia,femmine,X1033,Mondo,2020,4651
+ITC3,Liguria,estero,Italia,totale,X1033,Mondo,2011,1522
+ITC3,Liguria,estero,Italia,totale,X1033,Mondo,2012,2154
+ITC3,Liguria,estero,Italia,totale,X1033,Mondo,2013,2548
+ITC3,Liguria,estero,Italia,totale,X1033,Mondo,2014,2617
+ITC3,Liguria,estero,Italia,totale,X1033,Mondo,2015,2735
+ITC3,Liguria,estero,Italia,totale,X1033,Mondo,2016,2755
+ITC3,Liguria,estero,Italia,totale,X1033,Mondo,2017,3008
+ITC3,Liguria,estero,Italia,totale,X1033,Mondo,2018,2873
+ITC3,Liguria,estero,Italia,totale,X1033,Mondo,2019,2363
+ITC3,Liguria,estero,Italia,totale,X1033,Mondo,2020,2793
+ITC4,Lombardia,in altre regioni,Italia,totale,X1033,Mondo,2011,33647
+ITC4,Lombardia,in altre regioni,Italia,totale,X1033,Mondo,2012,37907
+ITC4,Lombardia,in altre regioni,Italia,totale,X1033,Mondo,2013,34901
+ITC4,Lombardia,in altre regioni,Italia,totale,X1033,Mondo,2014,33599
+ITC4,Lombardia,in altre regioni,Italia,totale,X1033,Mondo,2015,33747
+ITC4,Lombardia,in altre regioni,Italia,totale,X1033,Mondo,2016,34089
+ITC4,Lombardia,in altre regioni,Italia,totale,X1033,Mondo,2017,33801
+ITC4,Lombardia,in altre regioni,Italia,totale,X1033,Mondo,2018,33853
+ITC4,Lombardia,in altre regioni,Italia,totale,X1033,Mondo,2019,38143
+ITC4,Lombardia,in altre regioni,Italia,totale,X1033,Mondo,2020,37977
+ITC4,Lombardia,estero,Italia,maschi,X1033,Mondo,2011,5552
+ITC4,Lombardia,estero,Italia,maschi,X1033,Mondo,2012,7864
+ITC4,Lombardia,estero,Italia,maschi,X1033,Mondo,2013,9365
+ITC4,Lombardia,estero,Italia,maschi,X1033,Mondo,2014,10103
+ITC4,Lombardia,estero,Italia,maschi,X1033,Mondo,2015,11740
+ITC4,Lombardia,estero,Italia,maschi,X1033,Mondo,2016,12709
+ITC4,Lombardia,estero,Italia,maschi,X1033,Mondo,2017,12327
+ITC4,Lombardia,estero,Italia,maschi,X1033,Mondo,2018,12453
+ITC4,Lombardia,estero,Italia,maschi,X1033,Mondo,2019,12554
+ITC4,Lombardia,estero,Italia,maschi,X1033,Mondo,2020,12784
+ITD3,Veneto,in altre regioni,Italia,femmine,X1033,Mondo,2011,7200
+ITD3,Veneto,in altre regioni,Italia,femmine,X1033,Mondo,2012,7722
+ITD3,Veneto,in altre regioni,Italia,femmine,X1033,Mondo,2013,7159
+ITD3,Veneto,in altre regioni,Italia,femmine,X1033,Mondo,2014,6832
+ITD3,Veneto,in altre regioni,Italia,femmine,X1033,Mondo,2015,6870
+ITD3,Veneto,in altre regioni,Italia,femmine,X1033,Mondo,2016,7250
+ITD3,Veneto,in altre regioni,Italia,femmine,X1033,Mondo,2017,7138
+ITD3,Veneto,in altre regioni,Italia,femmine,X1033,Mondo,2018,7193
+ITD3,Veneto,in altre regioni,Italia,femmine,X1033,Mondo,2019,7936
+ITD3,Veneto,in altre regioni,Italia,femmine,X1033,Mondo,2020,7539
+ITE1,Toscana,in altre regioni,Italia,totale,X1033,Mondo,2011,13890
+ITE1,Toscana,in altre regioni,Italia,totale,X1033,Mondo,2012,15828
+ITE1,Toscana,in altre regioni,Italia,totale,X1033,Mondo,2013,14514
+ITE1,Toscana,in altre regioni,Italia,totale,X1033,Mondo,2014,13521
+ITE1,Toscana,in altre regioni,Italia,totale,X1033,Mondo,2015,13617
+ITE1,Toscana,in altre regioni,Italia,totale,X1033,Mondo,2016,14224
+ITE1,Toscana,in altre regioni,Italia,totale,X1033,Mondo,2017,13950
+ITE1,Toscana,in altre regioni,Italia,totale,X1033,Mondo,2018,14234
+ITE1,Toscana,in altre regioni,Italia,totale,X1033,Mondo,2019,15100
+ITE1,Toscana,in altre regioni,Italia,totale,X1033,Mondo,2020,13827
+ITE1,Toscana,estero,Italia,maschi,X1033,Mondo,2011,1330
+ITE1,Toscana,estero,Italia,maschi,X1033,Mondo,2012,1727
+ITE1,Toscana,estero,Italia,maschi,X1033,Mondo,2013,2038
+ITE1,Toscana,estero,Italia,maschi,X1033,Mondo,2014,2519
+ITE1,Toscana,estero,Italia,maschi,X1033,Mondo,2015,2699
+ITE1,Toscana,estero,Italia,maschi,X1033,Mondo,2016,3101
+ITE1,Toscana,estero,Italia,maschi,X1033,Mondo,2017,3197
+ITE1,Toscana,estero,Italia,maschi,X1033,Mondo,2018,3357
+ITE1,Toscana,estero,Italia,maschi,X1033,Mondo,2019,2679
+ITE1,Toscana,estero,Italia,maschi,X1033,Mondo,2020,3390
+ITE2,Umbria,in altre regioni,Italia,maschi,X1033,Mondo,2011,2191
+ITE2,Umbria,in altre regioni,Italia,maschi,X1033,Mondo,2012,2614
+ITE2,Umbria,in altre regioni,Italia,maschi,X1033,Mondo,2013,2474
+ITE2,Umbria,in altre regioni,Italia,maschi,X1033,Mondo,2014,2316
+ITE2,Umbria,in altre regioni,Italia,maschi,X1033,Mondo,2015,2350
+ITE2,Umbria,in altre regioni,Italia,maschi,X1033,Mondo,2016,2300
+ITE2,Umbria,in altre regioni,Italia,maschi,X1033,Mondo,2017,2233
+ITE2,Umbria,in altre regioni,Italia,maschi,X1033,Mondo,2018,2253
+ITE2,Umbria,in altre regioni,Italia,maschi,X1033,Mondo,2019,2489
+ITE2,Umbria,in altre regioni,Italia,maschi,X1033,Mondo,2020,2159
+ITE3,Marche,in altre regioni,Italia,maschi,X1033,Mondo,2011,3025
+ITE3,Marche,in altre regioni,Italia,maschi,X1033,Mondo,2012,3580
+ITE3,Marche,in altre regioni,Italia,maschi,X1033,Mondo,2013,3449
+ITE3,Marche,in altre regioni,Italia,maschi,X1033,Mondo,2014,3012
+ITE3,Marche,in altre regioni,Italia,maschi,X1033,Mondo,2015,3055
+ITE3,Marche,in altre regioni,Italia,maschi,X1033,Mondo,2016,3199
+ITE3,Marche,in altre regioni,Italia,maschi,X1033,Mondo,2017,3140
+ITE3,Marche,in altre regioni,Italia,maschi,X1033,Mondo,2018,3210
+ITE3,Marche,in altre regioni,Italia,maschi,X1033,Mondo,2019,3555
+ITE3,Marche,in altre regioni,Italia,maschi,X1033,Mondo,2020,3121
+ITE3,Marche,estero,Italia,femmine,X1033,Mondo,2011,544
+ITE3,Marche,estero,Italia,femmine,X1033,Mondo,2012,682
+ITE3,Marche,estero,Italia,femmine,X1033,Mondo,2013,877
+ITE3,Marche,estero,Italia,femmine,X1033,Mondo,2014,951
+ITE3,Marche,estero,Italia,femmine,X1033,Mondo,2015,1183
+ITE3,Marche,estero,Italia,femmine,X1033,Mondo,2016,1310
+ITE3,Marche,estero,Italia,femmine,X1033,Mondo,2017,1448
+ITE3,Marche,estero,Italia,femmine,X1033,Mondo,2018,1585
+ITE3,Marche,estero,Italia,femmine,X1033,Mondo,2019,1747
+ITE3,Marche,estero,Italia,femmine,X1033,Mondo,2020,1707
+ITE4,Lazio,estero,Italia,femmine,X1033,Mondo,2011,2132
+ITE4,Lazio,estero,Italia,femmine,X1033,Mondo,2012,2472
+ITE4,Lazio,estero,Italia,femmine,X1033,Mondo,2013,3427
+ITE4,Lazio,estero,Italia,femmine,X1033,Mondo,2014,3474
+ITE4,Lazio,estero,Italia,femmine,X1033,Mondo,2015,4127
+ITE4,Lazio,estero,Italia,femmine,X1033,Mondo,2016,4878
+ITE4,Lazio,estero,Italia,femmine,X1033,Mondo,2017,4454
+ITE4,Lazio,estero,Italia,femmine,X1033,Mondo,2018,4448
+ITE4,Lazio,estero,Italia,femmine,X1033,Mondo,2019,4087
+ITE4,Lazio,estero,Italia,femmine,X1033,Mondo,2020,3821
+ITF3,Campania,in altre regioni,Italia,maschi,X1033,Mondo,2011,21995
+ITF3,Campania,in altre regioni,Italia,maschi,X1033,Mondo,2012,26074
+ITF3,Campania,in altre regioni,Italia,maschi,X1033,Mondo,2013,20947
+ITF3,Campania,in altre regioni,Italia,maschi,X1033,Mondo,2014,18894
+ITF3,Campania,in altre regioni,Italia,maschi,X1033,Mondo,2015,17702
+ITF3,Campania,in altre regioni,Italia,maschi,X1033,Mondo,2016,17499
+ITF3,Campania,in altre regioni,Italia,maschi,X1033,Mondo,2017,17001
+ITF3,Campania,in altre regioni,Italia,maschi,X1033,Mondo,2018,18073
+ITF3,Campania,in altre regioni,Italia,maschi,X1033,Mondo,2019,20167
+ITF3,Campania,in altre regioni,Italia,maschi,X1033,Mondo,2020,16330
+ITF3,Campania,estero,Italia,femmine,X1033,Mondo,2011,1398
+ITF3,Campania,estero,Italia,femmine,X1033,Mondo,2012,1759
+ITF3,Campania,estero,Italia,femmine,X1033,Mondo,2013,2423
+ITF3,Campania,estero,Italia,femmine,X1033,Mondo,2014,2487
+ITF3,Campania,estero,Italia,femmine,X1033,Mondo,2015,2770
+ITF3,Campania,estero,Italia,femmine,X1033,Mondo,2016,3115
+ITF3,Campania,estero,Italia,femmine,X1033,Mondo,2017,3235
+ITF3,Campania,estero,Italia,femmine,X1033,Mondo,2018,3143
+ITF3,Campania,estero,Italia,femmine,X1033,Mondo,2019,4687
+ITF3,Campania,estero,Italia,femmine,X1033,Mondo,2020,4132
+ITF4,Puglia,in altre regioni,Italia,maschi,X1033,Mondo,2011,11919
+ITF4,Puglia,in altre regioni,Italia,maschi,X1033,Mondo,2012,13778
+ITF4,Puglia,in altre regioni,Italia,maschi,X1033,Mondo,2013,11705
+ITF4,Puglia,in altre regioni,Italia,maschi,X1033,Mondo,2014,10670
+ITF4,Puglia,in altre regioni,Italia,maschi,X1033,Mondo,2015,10372
+ITF4,Puglia,in altre regioni,Italia,maschi,X1033,Mondo,2016,10615
+ITF4,Puglia,in altre regioni,Italia,maschi,X1033,Mondo,2017,10820
+ITF4,Puglia,in altre regioni,Italia,maschi,X1033,Mondo,2018,11457
+ITF4,Puglia,in altre regioni,Italia,maschi,X1033,Mondo,2019,12683
+ITF4,Puglia,in altre regioni,Italia,maschi,X1033,Mondo,2020,10033
+ITF4,Puglia,estero,Italia,maschi,X1033,Mondo,2011,1524
+ITF4,Puglia,estero,Italia,maschi,X1033,Mondo,2012,2118
+ITF4,Puglia,estero,Italia,maschi,X1033,Mondo,2013,2507
+ITF4,Puglia,estero,Italia,maschi,X1033,Mondo,2014,2777
+ITF4,Puglia,estero,Italia,maschi,X1033,Mondo,2015,3013
+ITF4,Puglia,estero,Italia,maschi,X1033,Mondo,2016,3491
+ITF4,Puglia,estero,Italia,maschi,X1033,Mondo,2017,3403
+ITF4,Puglia,estero,Italia,maschi,X1033,Mondo,2018,3163
+ITF4,Puglia,estero,Italia,maschi,X1033,Mondo,2019,3900
+ITF4,Puglia,estero,Italia,maschi,X1033,Mondo,2020,3279
+ITF4,Puglia,estero,Italia,femmine,X1033,Mondo,2011,1040
+ITF4,Puglia,estero,Italia,femmine,X1033,Mondo,2012,1420
+ITF4,Puglia,estero,Italia,femmine,X1033,Mondo,2013,1751
+ITF4,Puglia,estero,Italia,femmine,X1033,Mondo,2014,1848
+ITF4,Puglia,estero,Italia,femmine,X1033,Mondo,2015,2160
+ITF4,Puglia,estero,Italia,femmine,X1033,Mondo,2016,2529
+ITF4,Puglia,estero,Italia,femmine,X1033,Mondo,2017,2390
+ITF4,Puglia,estero,Italia,femmine,X1033,Mondo,2018,2304
+ITF4,Puglia,estero,Italia,femmine,X1033,Mondo,2019,2815
+ITF4,Puglia,estero,Italia,femmine,X1033,Mondo,2020,2482
+ITF5,Basilicata,in altre regioni,Italia,totale,X1033,Mondo,2011,4131
+ITF5,Basilicata,in altre regioni,Italia,totale,X1033,Mondo,2012,4804
+ITF5,Basilicata,in altre regioni,Italia,totale,X1033,Mondo,2013,4066
+ITF5,Basilicata,in altre regioni,Italia,totale,X1033,Mondo,2014,4186
+ITF5,Basilicata,in altre regioni,Italia,totale,X1033,Mondo,2015,4045
+ITF5,Basilicata,in altre regioni,Italia,totale,X1033,Mondo,2016,4434
+ITF5,Basilicata,in altre regioni,Italia,totale,X1033,Mondo,2017,4524
+ITF5,Basilicata,in altre regioni,Italia,totale,X1033,Mondo,2018,4494
+ITF5,Basilicata,in altre regioni,Italia,totale,X1033,Mondo,2019,4888
+ITF5,Basilicata,in altre regioni,Italia,totale,X1033,Mondo,2020,4331
+ITF5,Basilicata,estero,Italia,maschi,X1033,Mondo,2011,241
+ITF5,Basilicata,estero,Italia,maschi,X1033,Mondo,2012,347
+ITF5,Basilicata,estero,Italia,maschi,X1033,Mondo,2013,406
+ITF5,Basilicata,estero,Italia,maschi,X1033,Mondo,2014,335
+ITF5,Basilicata,estero,Italia,maschi,X1033,Mondo,2015,380
+ITF5,Basilicata,estero,Italia,maschi,X1033,Mondo,2016,434
+ITF5,Basilicata,estero,Italia,maschi,X1033,Mondo,2017,372
+ITF5,Basilicata,estero,Italia,maschi,X1033,Mondo,2018,368
+ITF5,Basilicata,estero,Italia,maschi,X1033,Mondo,2019,532
+ITF5,Basilicata,estero,Italia,maschi,X1033,Mondo,2020,490
+ITF6,Calabria,in altre regioni,Italia,totale,X1033,Mondo,2011,15271
+ITF6,Calabria,in altre regioni,Italia,totale,X1033,Mondo,2012,17963
+ITF6,Calabria,in altre regioni,Italia,totale,X1033,Mondo,2013,15315
+ITF6,Calabria,in altre regioni,Italia,totale,X1033,Mondo,2014,14040
+ITF6,Calabria,in altre regioni,Italia,totale,X1033,Mondo,2015,13945
+ITF6,Calabria,in altre regioni,Italia,totale,X1033,Mondo,2016,14613
+ITF6,Calabria,in altre regioni,Italia,totale,X1033,Mondo,2017,14323
+ITF6,Calabria,in altre regioni,Italia,totale,X1033,Mondo,2018,14869
+ITF6,Calabria,in altre regioni,Italia,totale,X1033,Mondo,2019,16943
+ITF6,Calabria,in altre regioni,Italia,totale,X1033,Mondo,2020,13659
+ITF6,Calabria,estero,Italia,maschi,X1033,Mondo,2011,922
+ITF6,Calabria,estero,Italia,maschi,X1033,Mondo,2012,1565
+ITF6,Calabria,estero,Italia,maschi,X1033,Mondo,2013,1756
+ITF6,Calabria,estero,Italia,maschi,X1033,Mondo,2014,1778
+ITF6,Calabria,estero,Italia,maschi,X1033,Mondo,2015,2002
+ITF6,Calabria,estero,Italia,maschi,X1033,Mondo,2016,2204
+ITF6,Calabria,estero,Italia,maschi,X1033,Mondo,2017,2378
+ITF6,Calabria,estero,Italia,maschi,X1033,Mondo,2018,2254
+ITF6,Calabria,estero,Italia,maschi,X1033,Mondo,2019,3225
+ITF6,Calabria,estero,Italia,maschi,X1033,Mondo,2020,2443
+ITG1,Sicilia,in altre regioni,Italia,femmine,X1033,Mondo,2011,11743
+ITG1,Sicilia,in altre regioni,Italia,femmine,X1033,Mondo,2012,13444
+ITG1,Sicilia,in altre regioni,Italia,femmine,X1033,Mondo,2013,11755
+ITG1,Sicilia,in altre regioni,Italia,femmine,X1033,Mondo,2014,11501
+ITG1,Sicilia,in altre regioni,Italia,femmine,X1033,Mondo,2015,11730
+ITG1,Sicilia,in altre regioni,Italia,femmine,X1033,Mondo,2016,12506
+ITG1,Sicilia,in altre regioni,Italia,femmine,X1033,Mondo,2017,12730
+ITG1,Sicilia,in altre regioni,Italia,femmine,X1033,Mondo,2018,13471
+ITG1,Sicilia,in altre regioni,Italia,femmine,X1033,Mondo,2019,15168
+ITG1,Sicilia,in altre regioni,Italia,femmine,X1033,Mondo,2020,11780
+ITG1,Sicilia,estero,Italia,totale,X1033,Mondo,2011,4566
+ITG1,Sicilia,estero,Italia,totale,X1033,Mondo,2012,5969
+ITG1,Sicilia,estero,Italia,totale,X1033,Mondo,2013,7044
+ITG1,Sicilia,estero,Italia,totale,X1033,Mondo,2014,9102
+ITG1,Sicilia,estero,Italia,totale,X1033,Mondo,2015,10410
+ITG1,Sicilia,estero,Italia,totale,X1033,Mondo,2016,10703
+ITG1,Sicilia,estero,Italia,totale,X1033,Mondo,2017,11186
+ITG1,Sicilia,estero,Italia,totale,X1033,Mondo,2018,11437
+ITG1,Sicilia,estero,Italia,totale,X1033,Mondo,2019,12433
+ITG1,Sicilia,estero,Italia,totale,X1033,Mondo,2020,10671
+ITC3,Liguria,in altre regioni,Italia,totale,X1033,Mondo,2011,9704
+ITC3,Liguria,in altre regioni,Italia,totale,X1033,Mondo,2012,11407
+ITC3,Liguria,in altre regioni,Italia,totale,X1033,Mondo,2013,10276
+ITC3,Liguria,in altre regioni,Italia,totale,X1033,Mondo,2014,9514
+ITC3,Liguria,in altre regioni,Italia,totale,X1033,Mondo,2015,9212
+ITC3,Liguria,in altre regioni,Italia,totale,X1033,Mondo,2016,9257
+ITC3,Liguria,in altre regioni,Italia,totale,X1033,Mondo,2017,9202
+ITC3,Liguria,in altre regioni,Italia,totale,X1033,Mondo,2018,9062
+ITC3,Liguria,in altre regioni,Italia,totale,X1033,Mondo,2019,10092
+ITC3,Liguria,in altre regioni,Italia,totale,X1033,Mondo,2020,9391
+ITC3,Liguria,estero,Italia,maschi,X1033,Mondo,2011,887
+ITC3,Liguria,estero,Italia,maschi,X1033,Mondo,2012,1266
+ITC3,Liguria,estero,Italia,maschi,X1033,Mondo,2013,1472
+ITC3,Liguria,estero,Italia,maschi,X1033,Mondo,2014,1533
+ITC3,Liguria,estero,Italia,maschi,X1033,Mondo,2015,1542
+ITC3,Liguria,estero,Italia,maschi,X1033,Mondo,2016,1543
+ITC3,Liguria,estero,Italia,maschi,X1033,Mondo,2017,1687
+ITC3,Liguria,estero,Italia,maschi,X1033,Mondo,2018,1540
+ITC3,Liguria,estero,Italia,maschi,X1033,Mondo,2019,1304
+ITC3,Liguria,estero,Italia,maschi,X1033,Mondo,2020,1460
+ITD4,Friuli-Venezia Giulia,in altre regioni,Italia,maschi,X1033,Mondo,2011,2465
+ITD4,Friuli-Venezia Giulia,in altre regioni,Italia,maschi,X1033,Mondo,2012,2757
+ITD4,Friuli-Venezia Giulia,in altre regioni,Italia,maschi,X1033,Mondo,2013,2418
+ITD4,Friuli-Venezia Giulia,in altre regioni,Italia,maschi,X1033,Mondo,2014,2490
+ITD4,Friuli-Venezia Giulia,in altre regioni,Italia,maschi,X1033,Mondo,2015,2630
+ITD4,Friuli-Venezia Giulia,in altre regioni,Italia,maschi,X1033,Mondo,2016,2636
+ITD4,Friuli-Venezia Giulia,in altre regioni,Italia,maschi,X1033,Mondo,2017,2584
+ITD4,Friuli-Venezia Giulia,in altre regioni,Italia,maschi,X1033,Mondo,2018,2548
+ITD4,Friuli-Venezia Giulia,in altre regioni,Italia,maschi,X1033,Mondo,2019,2961
+ITD4,Friuli-Venezia Giulia,in altre regioni,Italia,maschi,X1033,Mondo,2020,2594
+ITD4,Friuli-Venezia Giulia,estero,Italia,femmine,X1033,Mondo,2011,673
+ITD4,Friuli-Venezia Giulia,estero,Italia,femmine,X1033,Mondo,2012,669
+ITD4,Friuli-Venezia Giulia,estero,Italia,femmine,X1033,Mondo,2013,985
+ITD4,Friuli-Venezia Giulia,estero,Italia,femmine,X1033,Mondo,2014,1050
+ITD4,Friuli-Venezia Giulia,estero,Italia,femmine,X1033,Mondo,2015,1114
+ITD4,Friuli-Venezia Giulia,estero,Italia,femmine,X1033,Mondo,2016,1286
+ITD4,Friuli-Venezia Giulia,estero,Italia,femmine,X1033,Mondo,2017,1339
+ITD4,Friuli-Venezia Giulia,estero,Italia,femmine,X1033,Mondo,2018,1310
+ITD4,Friuli-Venezia Giulia,estero,Italia,femmine,X1033,Mondo,2019,1555
+ITD4,Friuli-Venezia Giulia,estero,Italia,femmine,X1033,Mondo,2020,1248
+ITD5,Emilia-Romagna,estero,Italia,totale,X1033,Mondo,2011,3468
+ITD5,Emilia-Romagna,estero,Italia,totale,X1033,Mondo,2012,4719
+ITD5,Emilia-Romagna,estero,Italia,totale,X1033,Mondo,2013,5806
+ITD5,Emilia-Romagna,estero,Italia,totale,X1033,Mondo,2014,5965
+ITD5,Emilia-Romagna,estero,Italia,totale,X1033,Mondo,2015,6927
+ITD5,Emilia-Romagna,estero,Italia,totale,X1033,Mondo,2016,8288
+ITD5,Emilia-Romagna,estero,Italia,totale,X1033,Mondo,2017,8037
+ITD5,Emilia-Romagna,estero,Italia,totale,X1033,Mondo,2018,8100
+ITD5,Emilia-Romagna,estero,Italia,totale,X1033,Mondo,2019,7774
+ITD5,Emilia-Romagna,estero,Italia,totale,X1033,Mondo,2020,9715
+ITF4,Puglia,estero,Italia,totale,X1033,Mondo,2011,2564
+ITF4,Puglia,estero,Italia,totale,X1033,Mondo,2012,3538
+ITF4,Puglia,estero,Italia,totale,X1033,Mondo,2013,4258
+ITF4,Puglia,estero,Italia,totale,X1033,Mondo,2014,4625
+ITF4,Puglia,estero,Italia,totale,X1033,Mondo,2015,5173
+ITF4,Puglia,estero,Italia,totale,X1033,Mondo,2016,6020
+ITF4,Puglia,estero,Italia,totale,X1033,Mondo,2017,5793
+ITF4,Puglia,estero,Italia,totale,X1033,Mondo,2018,5467
+ITF4,Puglia,estero,Italia,totale,X1033,Mondo,2019,6715
+ITF4,Puglia,estero,Italia,totale,X1033,Mondo,2020,5761
+ITF5,Basilicata,estero,Italia,totale,X1033,Mondo,2011,394
+ITF5,Basilicata,estero,Italia,totale,X1033,Mondo,2012,592
+ITF5,Basilicata,estero,Italia,totale,X1033,Mondo,2013,634
+ITF5,Basilicata,estero,Italia,totale,X1033,Mondo,2014,574
+ITF5,Basilicata,estero,Italia,totale,X1033,Mondo,2015,599
+ITF5,Basilicata,estero,Italia,totale,X1033,Mondo,2016,698
+ITF5,Basilicata,estero,Italia,totale,X1033,Mondo,2017,665
+ITF5,Basilicata,estero,Italia,totale,X1033,Mondo,2018,652
+ITF5,Basilicata,estero,Italia,totale,X1033,Mondo,2019,954
+ITF5,Basilicata,estero,Italia,totale,X1033,Mondo,2020,874
+ITF6,Calabria,in altre regioni,Italia,femmine,X1033,Mondo,2011,7540
+ITF6,Calabria,in altre regioni,Italia,femmine,X1033,Mondo,2012,8739
+ITF6,Calabria,in altre regioni,Italia,femmine,X1033,Mondo,2013,7425
+ITF6,Calabria,in altre regioni,Italia,femmine,X1033,Mondo,2014,6847
+ITF6,Calabria,in altre regioni,Italia,femmine,X1033,Mondo,2015,6837
+ITF6,Calabria,in altre regioni,Italia,femmine,X1033,Mondo,2016,7324
+ITF6,Calabria,in altre regioni,Italia,femmine,X1033,Mondo,2017,7018
+ITF6,Calabria,in altre regioni,Italia,femmine,X1033,Mondo,2018,7211
+ITF6,Calabria,in altre regioni,Italia,femmine,X1033,Mondo,2019,8161
+ITF6,Calabria,in altre regioni,Italia,femmine,X1033,Mondo,2020,6675
+ITF3,Campania,in altre regioni,Italia,totale,X1033,Mondo,2011,39626
+ITF3,Campania,in altre regioni,Italia,totale,X1033,Mondo,2012,46843
+ITF3,Campania,in altre regioni,Italia,totale,X1033,Mondo,2013,37772
+ITF3,Campania,in altre regioni,Italia,totale,X1033,Mondo,2014,34654
+ITF3,Campania,in altre regioni,Italia,totale,X1033,Mondo,2015,33027
+ITF3,Campania,in altre regioni,Italia,totale,X1033,Mondo,2016,32775
+ITF3,Campania,in altre regioni,Italia,totale,X1033,Mondo,2017,31998
+ITF3,Campania,in altre regioni,Italia,totale,X1033,Mondo,2018,33787
+ITF3,Campania,in altre regioni,Italia,totale,X1033,Mondo,2019,37387
+ITF3,Campania,in altre regioni,Italia,totale,X1033,Mondo,2020,30608
+ITF3,Campania,estero,Italia,maschi,X1033,Mondo,2011,1925
+ITF3,Campania,estero,Italia,maschi,X1033,Mondo,2012,2433
+ITF3,Campania,estero,Italia,maschi,X1033,Mondo,2013,3361
+ITF3,Campania,estero,Italia,maschi,X1033,Mondo,2014,3718
+ITF3,Campania,estero,Italia,maschi,X1033,Mondo,2015,3923
+ITF3,Campania,estero,Italia,maschi,X1033,Mondo,2016,4408
+ITF3,Campania,estero,Italia,maschi,X1033,Mondo,2017,4239
+ITF3,Campania,estero,Italia,maschi,X1033,Mondo,2018,4342
+ITF3,Campania,estero,Italia,maschi,X1033,Mondo,2019,5928
+ITF3,Campania,estero,Italia,maschi,X1033,Mondo,2020,5059
+ITG2,Sardegna,estero,Italia,maschi,X1033,Mondo,2011,854
+ITG2,Sardegna,estero,Italia,maschi,X1033,Mondo,2012,1151
+ITG2,Sardegna,estero,Italia,maschi,X1033,Mondo,2013,1289
+ITG2,Sardegna,estero,Italia,maschi,X1033,Mondo,2014,1371
+ITG2,Sardegna,estero,Italia,maschi,X1033,Mondo,2015,1513
+ITG2,Sardegna,estero,Italia,maschi,X1033,Mondo,2016,1621
+ITG2,Sardegna,estero,Italia,maschi,X1033,Mondo,2017,1657
+ITG2,Sardegna,estero,Italia,maschi,X1033,Mondo,2018,1631
+ITG2,Sardegna,estero,Italia,maschi,X1033,Mondo,2019,1718
+ITG2,Sardegna,estero,Italia,maschi,X1033,Mondo,2020,1689
+ITDA,Trentino Alto Adige / Südtirol,in altre regioni,Italia,femmine,X1033,Mondo,2011,1531
+ITDA,Trentino Alto Adige / Südtirol,in altre regioni,Italia,femmine,X1033,Mondo,2012,1614
+ITDA,Trentino Alto Adige / Südtirol,in altre regioni,Italia,femmine,X1033,Mondo,2013,1566
+ITDA,Trentino Alto Adige / Südtirol,in altre regioni,Italia,femmine,X1033,Mondo,2014,1553
+ITDA,Trentino Alto Adige / Südtirol,in altre regioni,Italia,femmine,X1033,Mondo,2015,1606
+ITDA,Trentino Alto Adige / Südtirol,in altre regioni,Italia,femmine,X1033,Mondo,2016,1671
+ITDA,Trentino Alto Adige / Südtirol,in altre regioni,Italia,femmine,X1033,Mondo,2017,1679
+ITDA,Trentino Alto Adige / Südtirol,in altre regioni,Italia,femmine,X1033,Mondo,2018,1676
+ITDA,Trentino Alto Adige / Südtirol,in altre regioni,Italia,femmine,X1033,Mondo,2019,1912
+ITDA,Trentino Alto Adige / Südtirol,in altre regioni,Italia,femmine,X1033,Mondo,2020,1868
+ITDA,Trentino Alto Adige / Südtirol,estero,Italia,totale,X1033,Mondo,2011,1280
+ITDA,Trentino Alto Adige / Südtirol,estero,Italia,totale,X1033,Mondo,2012,1892
+ITDA,Trentino Alto Adige / Südtirol,estero,Italia,totale,X1033,Mondo,2013,1889
+ITDA,Trentino Alto Adige / Südtirol,estero,Italia,totale,X1033,Mondo,2014,2077
+ITDA,Trentino Alto Adige / Südtirol,estero,Italia,totale,X1033,Mondo,2015,2590
+ITDA,Trentino Alto Adige / Südtirol,estero,Italia,totale,X1033,Mondo,2016,2827
+ITDA,Trentino Alto Adige / Südtirol,estero,Italia,totale,X1033,Mondo,2017,2921
+ITDA,Trentino Alto Adige / Südtirol,estero,Italia,totale,X1033,Mondo,2018,3086
+ITDA,Trentino Alto Adige / Südtirol,estero,Italia,totale,X1033,Mondo,2019,3620
+ITDA,Trentino Alto Adige / Südtirol,estero,Italia,totale,X1033,Mondo,2020,3030
+ITF2,Molise,in altre regioni,Italia,femmine,X1033,Mondo,2011,1174
+ITF2,Molise,in altre regioni,Italia,femmine,X1033,Mondo,2012,1443
+ITF2,Molise,in altre regioni,Italia,femmine,X1033,Mondo,2013,1267
+ITF2,Molise,in altre regioni,Italia,femmine,X1033,Mondo,2014,1267
+ITF2,Molise,in altre regioni,Italia,femmine,X1033,Mondo,2015,1246
+ITF2,Molise,in altre regioni,Italia,femmine,X1033,Mondo,2016,1357
+ITF2,Molise,in altre regioni,Italia,femmine,X1033,Mondo,2017,1283
+ITF2,Molise,in altre regioni,Italia,femmine,X1033,Mondo,2018,1341
+ITF2,Molise,in altre regioni,Italia,femmine,X1033,Mondo,2019,1544
+ITF2,Molise,in altre regioni,Italia,femmine,X1033,Mondo,2020,1275
+ITF2,Molise,estero,Italia,totale,X1033,Mondo,2011,316
+ITF2,Molise,estero,Italia,totale,X1033,Mondo,2012,445
+ITF2,Molise,estero,Italia,totale,X1033,Mondo,2013,467
+ITF2,Molise,estero,Italia,totale,X1033,Mondo,2014,475
+ITF2,Molise,estero,Italia,totale,X1033,Mondo,2015,536
+ITF2,Molise,estero,Italia,totale,X1033,Mondo,2016,611
+ITF2,Molise,estero,Italia,totale,X1033,Mondo,2017,600
+ITF2,Molise,estero,Italia,totale,X1033,Mondo,2018,690
+ITF2,Molise,estero,Italia,totale,X1033,Mondo,2019,764
+ITF2,Molise,estero,Italia,totale,X1033,Mondo,2020,853
+ITF3,Campania,estero,Italia,totale,X1033,Mondo,2011,3323
+ITF3,Campania,estero,Italia,totale,X1033,Mondo,2012,4192
+ITF3,Campania,estero,Italia,totale,X1033,Mondo,2013,5784
+ITF3,Campania,estero,Italia,totale,X1033,Mondo,2014,6205
+ITF3,Campania,estero,Italia,totale,X1033,Mondo,2015,6693
+ITF3,Campania,estero,Italia,totale,X1033,Mondo,2016,7523
+ITF3,Campania,estero,Italia,totale,X1033,Mondo,2017,7474
+ITF3,Campania,estero,Italia,totale,X1033,Mondo,2018,7485
+ITF3,Campania,estero,Italia,totale,X1033,Mondo,2019,10615
+ITF3,Campania,estero,Italia,totale,X1033,Mondo,2020,9191
+ITF1,Abruzzo,in altre regioni,Italia,totale,X1033,Mondo,2011,6422
+ITF1,Abruzzo,in altre regioni,Italia,totale,X1033,Mondo,2012,8268
+ITF1,Abruzzo,in altre regioni,Italia,totale,X1033,Mondo,2013,7293
+ITF1,Abruzzo,in altre regioni,Italia,totale,X1033,Mondo,2014,7339
+ITF1,Abruzzo,in altre regioni,Italia,totale,X1033,Mondo,2015,7384
+ITF1,Abruzzo,in altre regioni,Italia,totale,X1033,Mondo,2016,7485
+ITF1,Abruzzo,in altre regioni,Italia,totale,X1033,Mondo,2017,7282
+ITF1,Abruzzo,in altre regioni,Italia,totale,X1033,Mondo,2018,7219
+ITF1,Abruzzo,in altre regioni,Italia,totale,X1033,Mondo,2019,8032
+ITF1,Abruzzo,in altre regioni,Italia,totale,X1033,Mondo,2020,6764
+ITF1,Abruzzo,estero,Italia,maschi,X1033,Mondo,2011,591
+ITF1,Abruzzo,estero,Italia,maschi,X1033,Mondo,2012,829
+ITF1,Abruzzo,estero,Italia,maschi,X1033,Mondo,2013,1058
+ITF1,Abruzzo,estero,Italia,maschi,X1033,Mondo,2014,1011
+ITF1,Abruzzo,estero,Italia,maschi,X1033,Mondo,2015,1218
+ITF1,Abruzzo,estero,Italia,maschi,X1033,Mondo,2016,1496
+ITF1,Abruzzo,estero,Italia,maschi,X1033,Mondo,2017,1537
+ITF1,Abruzzo,estero,Italia,maschi,X1033,Mondo,2018,1633
+ITF1,Abruzzo,estero,Italia,maschi,X1033,Mondo,2019,1722
+ITF1,Abruzzo,estero,Italia,maschi,X1033,Mondo,2020,1586
+ITF2,Molise,estero,Italia,femmine,X1033,Mondo,2011,142
+ITF2,Molise,estero,Italia,femmine,X1033,Mondo,2012,190
+ITF2,Molise,estero,Italia,femmine,X1033,Mondo,2013,220
+ITF2,Molise,estero,Italia,femmine,X1033,Mondo,2014,199
+ITF2,Molise,estero,Italia,femmine,X1033,Mondo,2015,241
+ITF2,Molise,estero,Italia,femmine,X1033,Mondo,2016,269
+ITF2,Molise,estero,Italia,femmine,X1033,Mondo,2017,285
+ITF2,Molise,estero,Italia,femmine,X1033,Mondo,2018,299
+ITF2,Molise,estero,Italia,femmine,X1033,Mondo,2019,391
+ITF2,Molise,estero,Italia,femmine,X1033,Mondo,2020,414
+ITG2,Sardegna,estero,Italia,femmine,X1033,Mondo,2011,586
+ITG2,Sardegna,estero,Italia,femmine,X1033,Mondo,2012,828
+ITG2,Sardegna,estero,Italia,femmine,X1033,Mondo,2013,940
+ITG2,Sardegna,estero,Italia,femmine,X1033,Mondo,2014,1024
+ITG2,Sardegna,estero,Italia,femmine,X1033,Mondo,2015,1134
+ITG2,Sardegna,estero,Italia,femmine,X1033,Mondo,2016,1268
+ITG2,Sardegna,estero,Italia,femmine,X1033,Mondo,2017,1387
+ITG2,Sardegna,estero,Italia,femmine,X1033,Mondo,2018,1380
+ITG2,Sardegna,estero,Italia,femmine,X1033,Mondo,2019,1434
+ITG2,Sardegna,estero,Italia,femmine,X1033,Mondo,2020,1475
+ITF4,Puglia,in altre regioni,Italia,femmine,X1033,Mondo,2011,10399
+ITF4,Puglia,in altre regioni,Italia,femmine,X1033,Mondo,2012,11803
+ITF4,Puglia,in altre regioni,Italia,femmine,X1033,Mondo,2013,10265
+ITF4,Puglia,in altre regioni,Italia,femmine,X1033,Mondo,2014,9903
+ITF4,Puglia,in altre regioni,Italia,femmine,X1033,Mondo,2015,9662
+ITF4,Puglia,in altre regioni,Italia,femmine,X1033,Mondo,2016,9886
+ITF4,Puglia,in altre regioni,Italia,femmine,X1033,Mondo,2017,9924
+ITF4,Puglia,in altre regioni,Italia,femmine,X1033,Mondo,2018,10674
+ITF4,Puglia,in altre regioni,Italia,femmine,X1033,Mondo,2019,11432
+ITF4,Puglia,in altre regioni,Italia,femmine,X1033,Mondo,2020,9281
+ITG2,Sardegna,estero,Italia,totale,X1033,Mondo,2011,1440
+ITG2,Sardegna,estero,Italia,totale,X1033,Mondo,2012,1979
+ITG2,Sardegna,estero,Italia,totale,X1033,Mondo,2013,2229
+ITG2,Sardegna,estero,Italia,totale,X1033,Mondo,2014,2395
+ITG2,Sardegna,estero,Italia,totale,X1033,Mondo,2015,2647
+ITG2,Sardegna,estero,Italia,totale,X1033,Mondo,2016,2889
+ITG2,Sardegna,estero,Italia,totale,X1033,Mondo,2017,3044
+ITG2,Sardegna,estero,Italia,totale,X1033,Mondo,2018,3011
+ITG2,Sardegna,estero,Italia,totale,X1033,Mondo,2019,3152
+ITG2,Sardegna,estero,Italia,totale,X1033,Mondo,2020,3164
+ITF5,Basilicata,in altre regioni,Italia,maschi,X1033,Mondo,2011,2078
+ITF5,Basilicata,in altre regioni,Italia,maschi,X1033,Mondo,2012,2391
+ITF5,Basilicata,in altre regioni,Italia,maschi,X1033,Mondo,2013,2080
+ITF5,Basilicata,in altre regioni,Italia,maschi,X1033,Mondo,2014,2138
+ITF5,Basilicata,in altre regioni,Italia,maschi,X1033,Mondo,2015,2055
+ITF5,Basilicata,in altre regioni,Italia,maschi,X1033,Mondo,2016,2247
+ITF5,Basilicata,in altre regioni,Italia,maschi,X1033,Mondo,2017,2317
+ITF5,Basilicata,in altre regioni,Italia,maschi,X1033,Mondo,2018,2334
+ITF5,Basilicata,in altre regioni,Italia,maschi,X1033,Mondo,2019,2537
+ITF5,Basilicata,in altre regioni,Italia,maschi,X1033,Mondo,2020,2301
+ITF5,Basilicata,estero,Italia,femmine,X1033,Mondo,2011,153
+ITF5,Basilicata,estero,Italia,femmine,X1033,Mondo,2012,245
+ITF5,Basilicata,estero,Italia,femmine,X1033,Mondo,2013,228
+ITF5,Basilicata,estero,Italia,femmine,X1033,Mondo,2014,239
+ITF5,Basilicata,estero,Italia,femmine,X1033,Mondo,2015,219
+ITF5,Basilicata,estero,Italia,femmine,X1033,Mondo,2016,264
+ITF5,Basilicata,estero,Italia,femmine,X1033,Mondo,2017,293
+ITF5,Basilicata,estero,Italia,femmine,X1033,Mondo,2018,284
+ITF5,Basilicata,estero,Italia,femmine,X1033,Mondo,2019,422
+ITF5,Basilicata,estero,Italia,femmine,X1033,Mondo,2020,384
+ITF1,Abruzzo,estero,Italia,totale,X1033,Mondo,2011,1047
+ITF1,Abruzzo,estero,Italia,totale,X1033,Mondo,2012,1447
+ITF1,Abruzzo,estero,Italia,totale,X1033,Mondo,2013,1853
+ITF1,Abruzzo,estero,Italia,totale,X1033,Mondo,2014,1759
+ITF1,Abruzzo,estero,Italia,totale,X1033,Mondo,2015,2124
+ITF1,Abruzzo,estero,Italia,totale,X1033,Mondo,2016,2630
+ITF1,Abruzzo,estero,Italia,totale,X1033,Mondo,2017,2773
+ITF1,Abruzzo,estero,Italia,totale,X1033,Mondo,2018,2893
+ITF1,Abruzzo,estero,Italia,totale,X1033,Mondo,2019,3123
+ITF1,Abruzzo,estero,Italia,totale,X1033,Mondo,2020,2950
+ITC4,Lombardia,in altre regioni,Italia,femmine,X1033,Mondo,2011,16605
+ITC4,Lombardia,in altre regioni,Italia,femmine,X1033,Mondo,2012,18589
+ITC4,Lombardia,in altre regioni,Italia,femmine,X1033,Mondo,2013,17077
+ITC4,Lombardia,in altre regioni,Italia,femmine,X1033,Mondo,2014,16281
+ITC4,Lombardia,in altre regioni,Italia,femmine,X1033,Mondo,2015,16523
+ITC4,Lombardia,in altre regioni,Italia,femmine,X1033,Mondo,2016,16578
+ITC4,Lombardia,in altre regioni,Italia,femmine,X1033,Mondo,2017,16396
+ITC4,Lombardia,in altre regioni,Italia,femmine,X1033,Mondo,2018,16739
+ITC4,Lombardia,in altre regioni,Italia,femmine,X1033,Mondo,2019,18511
+ITC4,Lombardia,in altre regioni,Italia,femmine,X1033,Mondo,2020,18462
+ITC4,Lombardia,estero,Italia,totale,X1033,Mondo,2011,9717
+ITC4,Lombardia,estero,Italia,totale,X1033,Mondo,2012,13757
+ITC4,Lombardia,estero,Italia,totale,X1033,Mondo,2013,16325
+ITC4,Lombardia,estero,Italia,totale,X1033,Mondo,2014,17690
+ITC4,Lombardia,estero,Italia,totale,X1033,Mondo,2015,20389
+ITC4,Lombardia,estero,Italia,totale,X1033,Mondo,2016,22620
+ITC4,Lombardia,estero,Italia,totale,X1033,Mondo,2017,22129
+ITC4,Lombardia,estero,Italia,totale,X1033,Mondo,2018,22255
+ITC4,Lombardia,estero,Italia,totale,X1033,Mondo,2019,22985
+ITC4,Lombardia,estero,Italia,totale,X1033,Mondo,2020,23510
+ITD3,Veneto,estero,Italia,totale,X1033,Mondo,2011,4596
+ITD3,Veneto,estero,Italia,totale,X1033,Mondo,2012,6573
+ITD3,Veneto,estero,Italia,totale,X1033,Mondo,2013,7367
+ITD3,Veneto,estero,Italia,totale,X1033,Mondo,2014,7903
+ITD3,Veneto,estero,Italia,totale,X1033,Mondo,2015,9499
+ITD3,Veneto,estero,Italia,totale,X1033,Mondo,2016,10751
+ITD3,Veneto,estero,Italia,totale,X1033,Mondo,2017,10709
+ITD3,Veneto,estero,Italia,totale,X1033,Mondo,2018,11579
+ITD3,Veneto,estero,Italia,totale,X1033,Mondo,2019,11849
+ITD3,Veneto,estero,Italia,totale,X1033,Mondo,2020,11762
+ITD4,Friuli-Venezia Giulia,in altre regioni,Italia,totale,X1033,Mondo,2011,4694
+ITD4,Friuli-Venezia Giulia,in altre regioni,Italia,totale,X1033,Mondo,2012,5320
+ITD4,Friuli-Venezia Giulia,in altre regioni,Italia,totale,X1033,Mondo,2013,4743
+ITD4,Friuli-Venezia Giulia,in altre regioni,Italia,totale,X1033,Mondo,2014,4892
+ITD4,Friuli-Venezia Giulia,in altre regioni,Italia,totale,X1033,Mondo,2015,5029
+ITD4,Friuli-Venezia Giulia,in altre regioni,Italia,totale,X1033,Mondo,2016,5022
+ITD4,Friuli-Venezia Giulia,in altre regioni,Italia,totale,X1033,Mondo,2017,5032
+ITD4,Friuli-Venezia Giulia,in altre regioni,Italia,totale,X1033,Mondo,2018,4954
+ITD4,Friuli-Venezia Giulia,in altre regioni,Italia,totale,X1033,Mondo,2019,5672
+ITD4,Friuli-Venezia Giulia,in altre regioni,Italia,totale,X1033,Mondo,2020,4989
+ITD4,Friuli-Venezia Giulia,estero,Italia,maschi,X1033,Mondo,2011,814
+ITD4,Friuli-Venezia Giulia,estero,Italia,maschi,X1033,Mondo,2012,979
+ITD4,Friuli-Venezia Giulia,estero,Italia,maschi,X1033,Mondo,2013,1206
+ITD4,Friuli-Venezia Giulia,estero,Italia,maschi,X1033,Mondo,2014,1304
+ITD4,Friuli-Venezia Giulia,estero,Italia,maschi,X1033,Mondo,2015,1518
+ITD4,Friuli-Venezia Giulia,estero,Italia,maschi,X1033,Mondo,2016,1610
+ITD4,Friuli-Venezia Giulia,estero,Italia,maschi,X1033,Mondo,2017,1524
+ITD4,Friuli-Venezia Giulia,estero,Italia,maschi,X1033,Mondo,2018,1485
+ITD4,Friuli-Venezia Giulia,estero,Italia,maschi,X1033,Mondo,2019,1883
+ITD4,Friuli-Venezia Giulia,estero,Italia,maschi,X1033,Mondo,2020,1425
+ITD1,Provincia Autonoma Bolzano / Bozen,estero,Italia,totale,X1033,Mondo,2011,821
+ITD1,Provincia Autonoma Bolzano / Bozen,estero,Italia,totale,X1033,Mondo,2012,1334
+ITD1,Provincia Autonoma Bolzano / Bozen,estero,Italia,totale,X1033,Mondo,2013,1280
+ITD1,Provincia Autonoma Bolzano / Bozen,estero,Italia,totale,X1033,Mondo,2014,1394
+ITD1,Provincia Autonoma Bolzano / Bozen,estero,Italia,totale,X1033,Mondo,2015,1697
+ITD1,Provincia Autonoma Bolzano / Bozen,estero,Italia,totale,X1033,Mondo,2016,1790
+ITD1,Provincia Autonoma Bolzano / Bozen,estero,Italia,totale,X1033,Mondo,2017,1821
+ITD1,Provincia Autonoma Bolzano / Bozen,estero,Italia,totale,X1033,Mondo,2018,1891
+ITD1,Provincia Autonoma Bolzano / Bozen,estero,Italia,totale,X1033,Mondo,2019,2438
+ITD1,Provincia Autonoma Bolzano / Bozen,estero,Italia,totale,X1033,Mondo,2020,1942
+ITD1,Provincia Autonoma Bolzano / Bozen,estero,Italia,femmine,X1033,Mondo,2011,389
+ITD1,Provincia Autonoma Bolzano / Bozen,estero,Italia,femmine,X1033,Mondo,2012,584
+ITD1,Provincia Autonoma Bolzano / Bozen,estero,Italia,femmine,X1033,Mondo,2013,558
+ITD1,Provincia Autonoma Bolzano / Bozen,estero,Italia,femmine,X1033,Mondo,2014,640
+ITD1,Provincia Autonoma Bolzano / Bozen,estero,Italia,femmine,X1033,Mondo,2015,773
+ITD1,Provincia Autonoma Bolzano / Bozen,estero,Italia,femmine,X1033,Mondo,2016,847
+ITD1,Provincia Autonoma Bolzano / Bozen,estero,Italia,femmine,X1033,Mondo,2017,837
+ITD1,Provincia Autonoma Bolzano / Bozen,estero,Italia,femmine,X1033,Mondo,2018,879
+ITD1,Provincia Autonoma Bolzano / Bozen,estero,Italia,femmine,X1033,Mondo,2019,1145
+ITD1,Provincia Autonoma Bolzano / Bozen,estero,Italia,femmine,X1033,Mondo,2020,967
+ITE1,Toscana,estero,Italia,totale,X1033,Mondo,2011,2285
+ITE1,Toscana,estero,Italia,totale,X1033,Mondo,2012,2995
+ITE1,Toscana,estero,Italia,totale,X1033,Mondo,2013,3571
+ITE1,Toscana,estero,Italia,totale,X1033,Mondo,2014,4434
+ITE1,Toscana,estero,Italia,totale,X1033,Mondo,2015,4730
+ITE1,Toscana,estero,Italia,totale,X1033,Mondo,2016,5615
+ITE1,Toscana,estero,Italia,totale,X1033,Mondo,2017,5658
+ITE1,Toscana,estero,Italia,totale,X1033,Mondo,2018,6077
+ITE1,Toscana,estero,Italia,totale,X1033,Mondo,2019,4967
+ITE1,Toscana,estero,Italia,totale,X1033,Mondo,2020,6302
+ITD1,Provincia Autonoma Bolzano / Bozen,in altre regioni,Italia,maschi,X1033,Mondo,2011,734
+ITD1,Provincia Autonoma Bolzano / Bozen,in altre regioni,Italia,maschi,X1033,Mondo,2012,711
+ITD1,Provincia Autonoma Bolzano / Bozen,in altre regioni,Italia,maschi,X1033,Mondo,2013,647
+ITD1,Provincia Autonoma Bolzano / Bozen,in altre regioni,Italia,maschi,X1033,Mondo,2014,689
+ITD1,Provincia Autonoma Bolzano / Bozen,in altre regioni,Italia,maschi,X1033,Mondo,2015,700
+ITD1,Provincia Autonoma Bolzano / Bozen,in altre regioni,Italia,maschi,X1033,Mondo,2016,717
+ITD1,Provincia Autonoma Bolzano / Bozen,in altre regioni,Italia,maschi,X1033,Mondo,2017,741
+ITD1,Provincia Autonoma Bolzano / Bozen,in altre regioni,Italia,maschi,X1033,Mondo,2018,804
+ITD1,Provincia Autonoma Bolzano / Bozen,in altre regioni,Italia,maschi,X1033,Mondo,2019,916
+ITD1,Provincia Autonoma Bolzano / Bozen,in altre regioni,Italia,maschi,X1033,Mondo,2020,871
+ITE1,Toscana,in altre regioni,Italia,femmine,X1033,Mondo,2011,6864
+ITE1,Toscana,in altre regioni,Italia,femmine,X1033,Mondo,2012,7765
+ITE1,Toscana,in altre regioni,Italia,femmine,X1033,Mondo,2013,7081
+ITE1,Toscana,in altre regioni,Italia,femmine,X1033,Mondo,2014,6601
+ITE1,Toscana,in altre regioni,Italia,femmine,X1033,Mondo,2015,6785
+ITE1,Toscana,in altre regioni,Italia,femmine,X1033,Mondo,2016,7092
+ITE1,Toscana,in altre regioni,Italia,femmine,X1033,Mondo,2017,6840
+ITE1,Toscana,in altre regioni,Italia,femmine,X1033,Mondo,2018,7129
+ITE1,Toscana,in altre regioni,Italia,femmine,X1033,Mondo,2019,7341
+ITE1,Toscana,in altre regioni,Italia,femmine,X1033,Mondo,2020,6787
+ITC1,Piemonte,in altre regioni,Italia,maschi,X1033,Mondo,2011,9149
+ITC1,Piemonte,in altre regioni,Italia,maschi,X1033,Mondo,2012,10293
+ITC1,Piemonte,in altre regioni,Italia,maschi,X1033,Mondo,2013,9510
+ITC1,Piemonte,in altre regioni,Italia,maschi,X1033,Mondo,2014,9208
+ITC1,Piemonte,in altre regioni,Italia,maschi,X1033,Mondo,2015,9090
+ITC1,Piemonte,in altre regioni,Italia,maschi,X1033,Mondo,2016,9277
+ITC1,Piemonte,in altre regioni,Italia,maschi,X1033,Mondo,2017,9046
+ITC1,Piemonte,in altre regioni,Italia,maschi,X1033,Mondo,2018,9058
+ITC1,Piemonte,in altre regioni,Italia,maschi,X1033,Mondo,2019,9991
+ITC1,Piemonte,in altre regioni,Italia,maschi,X1033,Mondo,2020,9295
+ITC1,Piemonte,estero,Italia,femmine,X1033,Mondo,2011,1498
+ITC1,Piemonte,estero,Italia,femmine,X1033,Mondo,2012,2133
+ITC1,Piemonte,estero,Italia,femmine,X1033,Mondo,2013,2497
+ITC1,Piemonte,estero,Italia,femmine,X1033,Mondo,2014,2650
+ITC1,Piemonte,estero,Italia,femmine,X1033,Mondo,2015,3364
+ITC1,Piemonte,estero,Italia,femmine,X1033,Mondo,2016,3610
+ITC1,Piemonte,estero,Italia,femmine,X1033,Mondo,2017,3845
+ITC1,Piemonte,estero,Italia,femmine,X1033,Mondo,2018,3884
+ITC1,Piemonte,estero,Italia,femmine,X1033,Mondo,2019,3230
+ITC1,Piemonte,estero,Italia,femmine,X1033,Mondo,2020,4345
+ITD1,Provincia Autonoma Bolzano / Bozen,in altre regioni,Italia,totale,X1033,Mondo,2011,1281
+ITD1,Provincia Autonoma Bolzano / Bozen,in altre regioni,Italia,totale,X1033,Mondo,2012,1262
+ITD1,Provincia Autonoma Bolzano / Bozen,in altre regioni,Italia,totale,X1033,Mondo,2013,1194
+ITD1,Provincia Autonoma Bolzano / Bozen,in altre regioni,Italia,totale,X1033,Mondo,2014,1233
+ITD1,Provincia Autonoma Bolzano / Bozen,in altre regioni,Italia,totale,X1033,Mondo,2015,1286
+ITD1,Provincia Autonoma Bolzano / Bozen,in altre regioni,Italia,totale,X1033,Mondo,2016,1313
+ITD1,Provincia Autonoma Bolzano / Bozen,in altre regioni,Italia,totale,X1033,Mondo,2017,1332
+ITD1,Provincia Autonoma Bolzano / Bozen,in altre regioni,Italia,totale,X1033,Mondo,2018,1425
+ITD1,Provincia Autonoma Bolzano / Bozen,in altre regioni,Italia,totale,X1033,Mondo,2019,1659
+ITD1,Provincia Autonoma Bolzano / Bozen,in altre regioni,Italia,totale,X1033,Mondo,2020,1600
+ITE1,Toscana,in altre regioni,Italia,maschi,X1033,Mondo,2011,7026
+ITE1,Toscana,in altre regioni,Italia,maschi,X1033,Mondo,2012,8063
+ITE1,Toscana,in altre regioni,Italia,maschi,X1033,Mondo,2013,7433
+ITE1,Toscana,in altre regioni,Italia,maschi,X1033,Mondo,2014,6920
+ITE1,Toscana,in altre regioni,Italia,maschi,X1033,Mondo,2015,6832
+ITE1,Toscana,in altre regioni,Italia,maschi,X1033,Mondo,2016,7132
+ITE1,Toscana,in altre regioni,Italia,maschi,X1033,Mondo,2017,7110
+ITE1,Toscana,in altre regioni,Italia,maschi,X1033,Mondo,2018,7105
+ITE1,Toscana,in altre regioni,Italia,maschi,X1033,Mondo,2019,7759
+ITE1,Toscana,in altre regioni,Italia,maschi,X1033,Mondo,2020,7040
+ITE1,Toscana,estero,Italia,femmine,X1033,Mondo,2011,955
+ITE1,Toscana,estero,Italia,femmine,X1033,Mondo,2012,1268
+ITE1,Toscana,estero,Italia,femmine,X1033,Mondo,2013,1533
+ITE1,Toscana,estero,Italia,femmine,X1033,Mondo,2014,1915
+ITE1,Toscana,estero,Italia,femmine,X1033,Mondo,2015,2031
+ITE1,Toscana,estero,Italia,femmine,X1033,Mondo,2016,2514
+ITE1,Toscana,estero,Italia,femmine,X1033,Mondo,2017,2461
+ITE1,Toscana,estero,Italia,femmine,X1033,Mondo,2018,2720
+ITE1,Toscana,estero,Italia,femmine,X1033,Mondo,2019,2288
+ITE1,Toscana,estero,Italia,femmine,X1033,Mondo,2020,2912
+ITF6,Calabria,estero,Italia,totale,X1033,Mondo,2011,1549
+ITF6,Calabria,estero,Italia,totale,X1033,Mondo,2012,2638
+ITF6,Calabria,estero,Italia,totale,X1033,Mondo,2013,2968
+ITF6,Calabria,estero,Italia,totale,X1033,Mondo,2014,3016
+ITF6,Calabria,estero,Italia,totale,X1033,Mondo,2015,3346
+ITF6,Calabria,estero,Italia,totale,X1033,Mondo,2016,3842
+ITF6,Calabria,estero,Italia,totale,X1033,Mondo,2017,4074
+ITF6,Calabria,estero,Italia,totale,X1033,Mondo,2018,3897
+ITF6,Calabria,estero,Italia,totale,X1033,Mondo,2019,5638
+ITF6,Calabria,estero,Italia,totale,X1033,Mondo,2020,4349
+ITE3,Marche,estero,Italia,totale,X1033,Mondo,2011,1239
+ITE3,Marche,estero,Italia,totale,X1033,Mondo,2012,1581
+ITE3,Marche,estero,Italia,totale,X1033,Mondo,2013,2046
+ITE3,Marche,estero,Italia,totale,X1033,Mondo,2014,2235
+ITE3,Marche,estero,Italia,totale,X1033,Mondo,2015,2672
+ITE3,Marche,estero,Italia,totale,X1033,Mondo,2016,3053
+ITE3,Marche,estero,Italia,totale,X1033,Mondo,2017,3210
+ITE3,Marche,estero,Italia,totale,X1033,Mondo,2018,3491
+ITE3,Marche,estero,Italia,totale,X1033,Mondo,2019,3820
+ITE3,Marche,estero,Italia,totale,X1033,Mondo,2020,3710
+ITG1,Sicilia,estero,Italia,femmine,X1033,Mondo,2011,1971
+ITG1,Sicilia,estero,Italia,femmine,X1033,Mondo,2012,2559
+ITG1,Sicilia,estero,Italia,femmine,X1033,Mondo,2013,2971
+ITG1,Sicilia,estero,Italia,femmine,X1033,Mondo,2014,3905
+ITG1,Sicilia,estero,Italia,femmine,X1033,Mondo,2015,4500
+ITG1,Sicilia,estero,Italia,femmine,X1033,Mondo,2016,4721
+ITG1,Sicilia,estero,Italia,femmine,X1033,Mondo,2017,4930
+ITG1,Sicilia,estero,Italia,femmine,X1033,Mondo,2018,4946
+ITG1,Sicilia,estero,Italia,femmine,X1033,Mondo,2019,5573
+ITG1,Sicilia,estero,Italia,femmine,X1033,Mondo,2020,4753
+ITD2,Provincia Autonoma Trento,in altre regioni,Italia,totale,X1033,Mondo,2011,1941
+ITD2,Provincia Autonoma Trento,in altre regioni,Italia,totale,X1033,Mondo,2012,2083
+ITD2,Provincia Autonoma Trento,in altre regioni,Italia,totale,X1033,Mondo,2013,2036
+ITD2,Provincia Autonoma Trento,in altre regioni,Italia,totale,X1033,Mondo,2014,2036
+ITD2,Provincia Autonoma Trento,in altre regioni,Italia,totale,X1033,Mondo,2015,2101
+ITD2,Provincia Autonoma Trento,in altre regioni,Italia,totale,X1033,Mondo,2016,2171
+ITD2,Provincia Autonoma Trento,in altre regioni,Italia,totale,X1033,Mondo,2017,2221
+ITD2,Provincia Autonoma Trento,in altre regioni,Italia,totale,X1033,Mondo,2018,2142
+ITD2,Provincia Autonoma Trento,in altre regioni,Italia,totale,X1033,Mondo,2019,2342
+ITD2,Provincia Autonoma Trento,in altre regioni,Italia,totale,X1033,Mondo,2020,2297
+ITF3,Campania,in altre regioni,Italia,femmine,X1033,Mondo,2011,17631
+ITF3,Campania,in altre regioni,Italia,femmine,X1033,Mondo,2012,20769
+ITF3,Campania,in altre regioni,Italia,femmine,X1033,Mondo,2013,16825
+ITF3,Campania,in altre regioni,Italia,femmine,X1033,Mondo,2014,15760
+ITF3,Campania,in altre regioni,Italia,femmine,X1033,Mondo,2015,15325
+ITF3,Campania,in altre regioni,Italia,femmine,X1033,Mondo,2016,15276
+ITF3,Campania,in altre regioni,Italia,femmine,X1033,Mondo,2017,14997
+ITF3,Campania,in altre regioni,Italia,femmine,X1033,Mondo,2018,15714
+ITF3,Campania,in altre regioni,Italia,femmine,X1033,Mondo,2019,17220
+ITF3,Campania,in altre regioni,Italia,femmine,X1033,Mondo,2020,14278
+ITD2,Provincia Autonoma Trento,in altre regioni,Italia,maschi,X1033,Mondo,2011,957
+ITD2,Provincia Autonoma Trento,in altre regioni,Italia,maschi,X1033,Mondo,2012,1020
+ITD2,Provincia Autonoma Trento,in altre regioni,Italia,maschi,X1033,Mondo,2013,1017
+ITD2,Provincia Autonoma Trento,in altre regioni,Italia,maschi,X1033,Mondo,2014,1027
+ITD2,Provincia Autonoma Trento,in altre regioni,Italia,maschi,X1033,Mondo,2015,1081
+ITD2,Provincia Autonoma Trento,in altre regioni,Italia,maschi,X1033,Mondo,2016,1096
+ITD2,Provincia Autonoma Trento,in altre regioni,Italia,maschi,X1033,Mondo,2017,1133
+ITD2,Provincia Autonoma Trento,in altre regioni,Italia,maschi,X1033,Mondo,2018,1087
+ITD2,Provincia Autonoma Trento,in altre regioni,Italia,maschi,X1033,Mondo,2019,1173
+ITD2,Provincia Autonoma Trento,in altre regioni,Italia,maschi,X1033,Mondo,2020,1158
+ITD2,Provincia Autonoma Trento,estero,Italia,totale,X1033,Mondo,2011,459
+ITD2,Provincia Autonoma Trento,estero,Italia,totale,X1033,Mondo,2012,558
+ITD2,Provincia Autonoma Trento,estero,Italia,totale,X1033,Mondo,2013,609
+ITD2,Provincia Autonoma Trento,estero,Italia,totale,X1033,Mondo,2014,683
+ITD2,Provincia Autonoma Trento,estero,Italia,totale,X1033,Mondo,2015,893
+ITD2,Provincia Autonoma Trento,estero,Italia,totale,X1033,Mondo,2016,1037
+ITD2,Provincia Autonoma Trento,estero,Italia,totale,X1033,Mondo,2017,1100
+ITD2,Provincia Autonoma Trento,estero,Italia,totale,X1033,Mondo,2018,1195
+ITD2,Provincia Autonoma Trento,estero,Italia,totale,X1033,Mondo,2019,1182
+ITD2,Provincia Autonoma Trento,estero,Italia,totale,X1033,Mondo,2020,1088
+ITD2,Provincia Autonoma Trento,in altre regioni,Italia,femmine,X1033,Mondo,2011,984
+ITD2,Provincia Autonoma Trento,in altre regioni,Italia,femmine,X1033,Mondo,2012,1063
+ITD2,Provincia Autonoma Trento,in altre regioni,Italia,femmine,X1033,Mondo,2013,1019
+ITD2,Provincia Autonoma Trento,in altre regioni,Italia,femmine,X1033,Mondo,2014,1009
+ITD2,Provincia Autonoma Trento,in altre regioni,Italia,femmine,X1033,Mondo,2015,1020
+ITD2,Provincia Autonoma Trento,in altre regioni,Italia,femmine,X1033,Mondo,2016,1075
+ITD2,Provincia Autonoma Trento,in altre regioni,Italia,femmine,X1033,Mondo,2017,1088
+ITD2,Provincia Autonoma Trento,in altre regioni,Italia,femmine,X1033,Mondo,2018,1055
+ITD2,Provincia Autonoma Trento,in altre regioni,Italia,femmine,X1033,Mondo,2019,1169
+ITD2,Provincia Autonoma Trento,in altre regioni,Italia,femmine,X1033,Mondo,2020,1139
+ITD2,Provincia Autonoma Trento,estero,Italia,femmine,X1033,Mondo,2011,218
+ITD2,Provincia Autonoma Trento,estero,Italia,femmine,X1033,Mondo,2012,248
+ITD2,Provincia Autonoma Trento,estero,Italia,femmine,X1033,Mondo,2013,241
+ITD2,Provincia Autonoma Trento,estero,Italia,femmine,X1033,Mondo,2014,306
+ITD2,Provincia Autonoma Trento,estero,Italia,femmine,X1033,Mondo,2015,417
+ITD2,Provincia Autonoma Trento,estero,Italia,femmine,X1033,Mondo,2016,513
+ITD2,Provincia Autonoma Trento,estero,Italia,femmine,X1033,Mondo,2017,495
+ITD2,Provincia Autonoma Trento,estero,Italia,femmine,X1033,Mondo,2018,554
+ITD2,Provincia Autonoma Trento,estero,Italia,femmine,X1033,Mondo,2019,542
+ITD2,Provincia Autonoma Trento,estero,Italia,femmine,X1033,Mondo,2020,518
+ITF1,Abruzzo,estero,Italia,femmine,X1033,Mondo,2011,456
+ITF1,Abruzzo,estero,Italia,femmine,X1033,Mondo,2012,618
+ITF1,Abruzzo,estero,Italia,femmine,X1033,Mondo,2013,795
+ITF1,Abruzzo,estero,Italia,femmine,X1033,Mondo,2014,748
+ITF1,Abruzzo,estero,Italia,femmine,X1033,Mondo,2015,906
+ITF1,Abruzzo,estero,Italia,femmine,X1033,Mondo,2016,1134
+ITF1,Abruzzo,estero,Italia,femmine,X1033,Mondo,2017,1236
+ITF1,Abruzzo,estero,Italia,femmine,X1033,Mondo,2018,1260
+ITF1,Abruzzo,estero,Italia,femmine,X1033,Mondo,2019,1401
+ITF1,Abruzzo,estero,Italia,femmine,X1033,Mondo,2020,1364
+ITD1,Provincia Autonoma Bolzano / Bozen,estero,Italia,maschi,X1033,Mondo,2011,432
+ITD1,Provincia Autonoma Bolzano / Bozen,estero,Italia,maschi,X1033,Mondo,2012,750
+ITD1,Provincia Autonoma Bolzano / Bozen,estero,Italia,maschi,X1033,Mondo,2013,722
+ITD1,Provincia Autonoma Bolzano / Bozen,estero,Italia,maschi,X1033,Mondo,2014,754
+ITD1,Provincia Autonoma Bolzano / Bozen,estero,Italia,maschi,X1033,Mondo,2015,924
+ITD1,Provincia Autonoma Bolzano / Bozen,estero,Italia,maschi,X1033,Mondo,2016,943
+ITD1,Provincia Autonoma Bolzano / Bozen,estero,Italia,maschi,X1033,Mondo,2017,984
+ITD1,Provincia Autonoma Bolzano / Bozen,estero,Italia,maschi,X1033,Mondo,2018,1012
+ITD1,Provincia Autonoma Bolzano / Bozen,estero,Italia,maschi,X1033,Mondo,2019,1293
+ITD1,Provincia Autonoma Bolzano / Bozen,estero,Italia,maschi,X1033,Mondo,2020,975
+ITD1,Provincia Autonoma Bolzano / Bozen,in altre regioni,Italia,femmine,X1033,Mondo,2011,547
+ITD1,Provincia Autonoma Bolzano / Bozen,in altre regioni,Italia,femmine,X1033,Mondo,2012,551
+ITD1,Provincia Autonoma Bolzano / Bozen,in altre regioni,Italia,femmine,X1033,Mondo,2013,547
+ITD1,Provincia Autonoma Bolzano / Bozen,in altre regioni,Italia,femmine,X1033,Mondo,2014,544
+ITD1,Provincia Autonoma Bolzano / Bozen,in altre regioni,Italia,femmine,X1033,Mondo,2015,586
+ITD1,Provincia Autonoma Bolzano / Bozen,in altre regioni,Italia,femmine,X1033,Mondo,2016,596
+ITD1,Provincia Autonoma Bolzano / Bozen,in altre regioni,Italia,femmine,X1033,Mondo,2017,591
+ITD1,Provincia Autonoma Bolzano / Bozen,in altre regioni,Italia,femmine,X1033,Mondo,2018,621
+ITD1,Provincia Autonoma Bolzano / Bozen,in altre regioni,Italia,femmine,X1033,Mondo,2019,743
+ITD1,Provincia Autonoma Bolzano / Bozen,in altre regioni,Italia,femmine,X1033,Mondo,2020,729
+ITD2,Provincia Autonoma Trento,estero,Italia,maschi,X1033,Mondo,2011,241
+ITD2,Provincia Autonoma Trento,estero,Italia,maschi,X1033,Mondo,2012,310
+ITD2,Provincia Autonoma Trento,estero,Italia,maschi,X1033,Mondo,2013,368
+ITD2,Provincia Autonoma Trento,estero,Italia,maschi,X1033,Mondo,2014,377
+ITD2,Provincia Autonoma Trento,estero,Italia,maschi,X1033,Mondo,2015,476
+ITD2,Provincia Autonoma Trento,estero,Italia,maschi,X1033,Mondo,2016,524
+ITD2,Provincia Autonoma Trento,estero,Italia,maschi,X1033,Mondo,2017,605
+ITD2,Provincia Autonoma Trento,estero,Italia,maschi,X1033,Mondo,2018,641
+ITD2,Provincia Autonoma Trento,estero,Italia,maschi,X1033,Mondo,2019,640
+ITD2,Provincia Autonoma Trento,estero,Italia,maschi,X1033,Mondo,2020,570
+ITE2,Umbria,estero,Italia,femmine,X1033,Mondo,2011,270
+ITE2,Umbria,estero,Italia,femmine,X1033,Mondo,2012,369
+ITE2,Umbria,estero,Italia,femmine,X1033,Mondo,2013,458
+ITE2,Umbria,estero,Italia,femmine,X1033,Mondo,2014,500
+ITE2,Umbria,estero,Italia,femmine,X1033,Mondo,2015,518
+ITE2,Umbria,estero,Italia,femmine,X1033,Mondo,2016,586
+ITE2,Umbria,estero,Italia,femmine,X1033,Mondo,2017,653
+ITE2,Umbria,estero,Italia,femmine,X1033,Mondo,2018,701
+ITE2,Umbria,estero,Italia,femmine,X1033,Mondo,2019,761
+ITE2,Umbria,estero,Italia,femmine,X1033,Mondo,2020,782
+ITE4,Lazio,in altre regioni,Italia,femmine,X1033,Mondo,2011,10813
+ITE4,Lazio,in altre regioni,Italia,femmine,X1033,Mondo,2012,13106
+ITE4,Lazio,in altre regioni,Italia,femmine,X1033,Mondo,2013,11172
+ITE4,Lazio,in altre regioni,Italia,femmine,X1033,Mondo,2014,10938
+ITE4,Lazio,in altre regioni,Italia,femmine,X1033,Mondo,2015,11295
+ITE4,Lazio,in altre regioni,Italia,femmine,X1033,Mondo,2016,12044
+ITE4,Lazio,in altre regioni,Italia,femmine,X1033,Mondo,2017,11764
+ITE4,Lazio,in altre regioni,Italia,femmine,X1033,Mondo,2018,12089
+ITE4,Lazio,in altre regioni,Italia,femmine,X1033,Mondo,2019,12967
+ITE4,Lazio,in altre regioni,Italia,femmine,X1033,Mondo,2020,11620
+ITG2,Sardegna,in altre regioni,Italia,maschi,X1033,Mondo,2011,3495
+ITG2,Sardegna,in altre regioni,Italia,maschi,X1033,Mondo,2012,3900
+ITG2,Sardegna,in altre regioni,Italia,maschi,X1033,Mondo,2013,3497
+ITG2,Sardegna,in altre regioni,Italia,maschi,X1033,Mondo,2014,3172
+ITG2,Sardegna,in altre regioni,Italia,maschi,X1033,Mondo,2015,3135
+ITG2,Sardegna,in altre regioni,Italia,maschi,X1033,Mondo,2016,3222
+ITG2,Sardegna,in altre regioni,Italia,maschi,X1033,Mondo,2017,3060
+ITG2,Sardegna,in altre regioni,Italia,maschi,X1033,Mondo,2018,3204
+ITG2,Sardegna,in altre regioni,Italia,maschi,X1033,Mondo,2019,3540
+ITG2,Sardegna,in altre regioni,Italia,maschi,X1033,Mondo,2020,2973
+ITG2,Sardegna,in altre regioni,Italia,femmine,X1033,Mondo,2011,3287
+ITG2,Sardegna,in altre regioni,Italia,femmine,X1033,Mondo,2012,3943
+ITG2,Sardegna,in altre regioni,Italia,femmine,X1033,Mondo,2013,3404
+ITG2,Sardegna,in altre regioni,Italia,femmine,X1033,Mondo,2014,3110
+ITG2,Sardegna,in altre regioni,Italia,femmine,X1033,Mondo,2015,2998
+ITG2,Sardegna,in altre regioni,Italia,femmine,X1033,Mondo,2016,3116
+ITG2,Sardegna,in altre regioni,Italia,femmine,X1033,Mondo,2017,3044
+ITG2,Sardegna,in altre regioni,Italia,femmine,X1033,Mondo,2018,3027
+ITG2,Sardegna,in altre regioni,Italia,femmine,X1033,Mondo,2019,3347
+ITG2,Sardegna,in altre regioni,Italia,femmine,X1033,Mondo,2020,2826
+ITG2,Sardegna,in altre regioni,Italia,totale,X1033,Mondo,2011,6782
+ITG2,Sardegna,in altre regioni,Italia,totale,X1033,Mondo,2012,7843
+ITG2,Sardegna,in altre regioni,Italia,totale,X1033,Mondo,2013,6901
+ITG2,Sardegna,in altre regioni,Italia,totale,X1033,Mondo,2014,6282
+ITG2,Sardegna,in altre regioni,Italia,totale,X1033,Mondo,2015,6133
+ITG2,Sardegna,in altre regioni,Italia,totale,X1033,Mondo,2016,6338
+ITG2,Sardegna,in altre regioni,Italia,totale,X1033,Mondo,2017,6104
+ITG2,Sardegna,in altre regioni,Italia,totale,X1033,Mondo,2018,6231
+ITG2,Sardegna,in altre regioni,Italia,totale,X1033,Mondo,2019,6887
+ITG2,Sardegna,in altre regioni,Italia,totale,X1033,Mondo,2020,5799
+ITE4,Lazio,estero,Italia,totale,X1033,Mondo,2011,4843
+ITE4,Lazio,estero,Italia,totale,X1033,Mondo,2012,5657
+ITE4,Lazio,estero,Italia,totale,X1033,Mondo,2013,7861
+ITE4,Lazio,estero,Italia,totale,X1033,Mondo,2014,7851
+ITE4,Lazio,estero,Italia,totale,X1033,Mondo,2015,9298
+ITE4,Lazio,estero,Italia,totale,X1033,Mondo,2016,10956
+ITE4,Lazio,estero,Italia,totale,X1033,Mondo,2017,10005
+ITE4,Lazio,estero,Italia,totale,X1033,Mondo,2018,10103
+ITE4,Lazio,estero,Italia,totale,X1033,Mondo,2019,8894
+ITE4,Lazio,estero,Italia,totale,X1033,Mondo,2020,8351
+ITF2,Molise,in altre regioni,Italia,maschi,X1033,Mondo,2011,1249
+ITF2,Molise,in altre regioni,Italia,maschi,X1033,Mondo,2012,1471
+ITF2,Molise,in altre regioni,Italia,maschi,X1033,Mondo,2013,1266
+ITF2,Molise,in altre regioni,Italia,maschi,X1033,Mondo,2014,1262
+ITF2,Molise,in altre regioni,Italia,maschi,X1033,Mondo,2015,1312
+ITF2,Molise,in altre regioni,Italia,maschi,X1033,Mondo,2016,1402
+ITF2,Molise,in altre regioni,Italia,maschi,X1033,Mondo,2017,1360
+ITF2,Molise,in altre regioni,Italia,maschi,X1033,Mondo,2018,1422
+ITF2,Molise,in altre regioni,Italia,maschi,X1033,Mondo,2019,1567
+ITF2,Molise,in altre regioni,Italia,maschi,X1033,Mondo,2020,1342
+ITC2,Valle d'Aosta / Vallée d'Aoste,in altre regioni,Italia,maschi,X1033,Mondo,2011,574
+ITC2,Valle d'Aosta / Vallée d'Aoste,in altre regioni,Italia,maschi,X1033,Mondo,2012,577
+ITC2,Valle d'Aosta / Vallée d'Aoste,in altre regioni,Italia,maschi,X1033,Mondo,2013,472
+ITC2,Valle d'Aosta / Vallée d'Aoste,in altre regioni,Italia,maschi,X1033,Mondo,2014,507
+ITC2,Valle d'Aosta / Vallée d'Aoste,in altre regioni,Italia,maschi,X1033,Mondo,2015,530
+ITC2,Valle d'Aosta / Vallée d'Aoste,in altre regioni,Italia,maschi,X1033,Mondo,2016,507
+ITC2,Valle d'Aosta / Vallée d'Aoste,in altre regioni,Italia,maschi,X1033,Mondo,2017,463
+ITC2,Valle d'Aosta / Vallée d'Aoste,in altre regioni,Italia,maschi,X1033,Mondo,2018,532
+ITC2,Valle d'Aosta / Vallée d'Aoste,in altre regioni,Italia,maschi,X1033,Mondo,2019,513
+ITC2,Valle d'Aosta / Vallée d'Aoste,in altre regioni,Italia,maschi,X1033,Mondo,2020,523
+ITC2,Valle d'Aosta / Vallée d'Aoste,estero,Italia,femmine,X1033,Mondo,2011,72
+ITC2,Valle d'Aosta / Vallée d'Aoste,estero,Italia,femmine,X1033,Mondo,2012,70
+ITC2,Valle d'Aosta / Vallée d'Aoste,estero,Italia,femmine,X1033,Mondo,2013,86
+ITC2,Valle d'Aosta / Vallée d'Aoste,estero,Italia,femmine,X1033,Mondo,2014,99
+ITC2,Valle d'Aosta / Vallée d'Aoste,estero,Italia,femmine,X1033,Mondo,2015,120
+ITC2,Valle d'Aosta / Vallée d'Aoste,estero,Italia,femmine,X1033,Mondo,2016,132
+ITC2,Valle d'Aosta / Vallée d'Aoste,estero,Italia,femmine,X1033,Mondo,2017,123
+ITC2,Valle d'Aosta / Vallée d'Aoste,estero,Italia,femmine,X1033,Mondo,2018,158
+ITC2,Valle d'Aosta / Vallée d'Aoste,estero,Italia,femmine,X1033,Mondo,2019,148
+ITC2,Valle d'Aosta / Vallée d'Aoste,estero,Italia,femmine,X1033,Mondo,2020,159
+ITF6,Calabria,estero,Italia,femmine,X1033,Mondo,2011,627
+ITF6,Calabria,estero,Italia,femmine,X1033,Mondo,2012,1073
+ITF6,Calabria,estero,Italia,femmine,X1033,Mondo,2013,1212
+ITF6,Calabria,estero,Italia,femmine,X1033,Mondo,2014,1238
+ITF6,Calabria,estero,Italia,femmine,X1033,Mondo,2015,1344
+ITF6,Calabria,estero,Italia,femmine,X1033,Mondo,2016,1638
+ITF6,Calabria,estero,Italia,femmine,X1033,Mondo,2017,1696
+ITF6,Calabria,estero,Italia,femmine,X1033,Mondo,2018,1643
+ITF6,Calabria,estero,Italia,femmine,X1033,Mondo,2019,2413
+ITF6,Calabria,estero,Italia,femmine,X1033,Mondo,2020,1906
+ITF6,Calabria,in altre regioni,Italia,maschi,X1033,Mondo,2011,7731
+ITF6,Calabria,in altre regioni,Italia,maschi,X1033,Mondo,2012,9224
+ITF6,Calabria,in altre regioni,Italia,maschi,X1033,Mondo,2013,7890
+ITF6,Calabria,in altre regioni,Italia,maschi,X1033,Mondo,2014,7193
+ITF6,Calabria,in altre regioni,Italia,maschi,X1033,Mondo,2015,7108
+ITF6,Calabria,in altre regioni,Italia,maschi,X1033,Mondo,2016,7289
+ITF6,Calabria,in altre regioni,Italia,maschi,X1033,Mondo,2017,7305
+ITF6,Calabria,in altre regioni,Italia,maschi,X1033,Mondo,2018,7658
+ITF6,Calabria,in altre regioni,Italia,maschi,X1033,Mondo,2019,8782
+ITF6,Calabria,in altre regioni,Italia,maschi,X1033,Mondo,2020,6984
+ITG1,Sicilia,in altre regioni,Italia,maschi,X1033,Mondo,2011,12704
+ITG1,Sicilia,in altre regioni,Italia,maschi,X1033,Mondo,2012,14656
+ITG1,Sicilia,in altre regioni,Italia,maschi,X1033,Mondo,2013,12686
+ITG1,Sicilia,in altre regioni,Italia,maschi,X1033,Mondo,2014,12081
+ITG1,Sicilia,in altre regioni,Italia,maschi,X1033,Mondo,2015,12150
+ITG1,Sicilia,in altre regioni,Italia,maschi,X1033,Mondo,2016,13064
+ITG1,Sicilia,in altre regioni,Italia,maschi,X1033,Mondo,2017,13431
+ITG1,Sicilia,in altre regioni,Italia,maschi,X1033,Mondo,2018,14461
+ITG1,Sicilia,in altre regioni,Italia,maschi,X1033,Mondo,2019,16797
+ITG1,Sicilia,in altre regioni,Italia,maschi,X1033,Mondo,2020,13126

@@ -1,0 +1,223 @@
+codice,nome,latitudine,longitudine
+SA,Arabia Saudita,25,45
+AE,Emirati Arabi,24,54
+ER,Eritrea,15,39
+PH,Filippine,13,122
+GQ,Guinea equatoriale,2,10
+LT,Lituania,56,24
+X1016,Africa,,
+AF,Afghanistan,33,65
+DZ,Algeria,28,3
+FI,Finlandia,64,26
+DE,Germania,51,9
+X1038,Unione Europea,,
+KE,Kenya,1,38
+PL,Polonia,52,20
+HU,Ungheria,47,20
+AL,Albania,41,20
+AO,Angola,-12.5,18.5
+AG,Antigua e Barbuda,17.05,-61.8
+CU,Cuba,21.5,-80
+DO,Repubblica Dominicana,19,-181.07.00
+AR,Argentina,-34,-64
+CM,Camerun,6,12
+EG,Egitto,27,30
+LV,Lettonia,57,25
+LY,Libia,25,17
+LU,Lussemburgo,50.15.00,33.47.00
+MZ,Mozambico,-18.25.00,35
+RU,Russia,60,100
+US,USA,38,-97
+SD,Sudan,15,30
+SE,Svezia,62,15
+CH,Svizzera,47,8
+UY,Uruguay,-33,-56
+VN,Vietnam,16,106
+IL,Israele,31.5,35.15.00
+MT,Malta,173.53.00,111.13.00
+MA,Marocco,32,-5
+CL,Cile,-30,-71
+GE,Georgia,42,43.5
+HN,Honduras,15,-86.5
+IN,India,20,77
+ID,Indonesia,-5,120
+IE,Irlanda,53,-8
+NG,Nigeria,10,8
+NO,Norvegia,62,10
+OM,Oman,21,57
+TZ,Tanzania,-6,35
+ZW,Zimbabwe,-20,30
+X1013,Europa,,
+X1019,America,,
+X1022,Asia,,
+X1026,Oceania,,
+NL,Paesi Bassi,52.5,6.15
+SK,Slovacchia,159.07.00,19.5
+PT,Portogallo,39.5,-8
+AU,Australia,-27,133
+AT,Austria,102.33.00,68.33.00
+IS,Islanda,65,-18
+PK,Pakistan,30,70
+ZM,Zambia,-15,30
+BA,Bosnia-Erzegovina,44,18
+SM,San Marino,170.47.00,81.27.00
+RS,Serbia,44,21
+EE,Estonia,59,26
+CA,Canada,60,-95
+CR,Costa Rica,10,-84
+EC,Ecuador,-2,-77.5
+JO,Giordania,31,36
+GR,Grecia,39,22
+GT,Guatemala,15.5,-90.25.00
+ES,Spagna,40,-4
+ZA,Sudafrica,-29,24
+UA,Ucraina,49,32
+CZ,Repubblica Ceca,50.15.00,15.5
+VE,Venezuela,8,-66
+LI,Liechtenstein,74.47.00,97.53.00
+MW,Malawi,-13.5,34
+BW,Botswana,-22,24
+KW,Kuwait,85.15.00,156.41.00
+SN,Senegal,14,-14
+CD,Repubblica democratica del Congo,0,25
+PE,Peru',-10,-76
+TR,Turchia,39,35
+GW,Guinea-Bissau,12,-15
+BE,Belgio,188.53.00,4
+CO,Colombia,4,-72
+FR,Francia,46,2
+X1039,Extra Ue27,,
+KH,Cambogia,13,105
+CF,Repubblica Centrafricana,7,21
+HT,Haiti,19,-141.27.00
+LB,Libano,171.53.00,173.53.00
+NE,Niger,16,8
+SZ,Swaziland,-26.5,31.5
+YE,Yemen,15,48
+BD,Bangladesh,24,90
+BO,Bolivia,-17,-65
+GA,Gabon,-1,12.15
+KR,Sud Corea,37,127.5
+DK,Danimarca,56,10
+X95,Kosovo,,
+LS,Lesotho,-29.5,28.5
+CV,Capo Verde,16,-24
+NZ,Nuova Zelanda,-41,174
+TW,Taiwan,23.5,121
+BG,Bulgaria,43,25
+CG,Repubblica del Congo,-1,15
+HR,Croazia,72.47.00,15.5
+UG,Uganda,1,32
+MX,Messico,23,-102
+MC,Monaco,165.13.00,7.4
+SV,El Salvador,151.53.00,-240.47.00
+SR,Suriname,4,-56
+CY,Cipro,35,33
+NI,Nicaragua,13,-85
+RO,Romania,46,25
+LC,Saint Lucia,160.13.00,-83.13.00
+TL,Timor-Leste,-8.55.00,211.07.00
+MY,Malaysia,2.5,112.5
+AD,Andorra,42.5,1.6
+BI,Burundi,-3.5,30
+MD,Moldova,47,29
+QA,Qatar,25.5,51.25.00
+GB,UK,54,-2
+RW,Ruanda,-2,30
+BS,Bahamas,24.25.00,-76
+ET,Etiopia,8,38
+FJ,Figi,-18,175
+MK,Macedonia,179.53.00,22
+TH,Thailandia,15,100
+CN,Cina,35,105
+AM,Armenia,40,45
+BH,Bahrain,26,50.55.00
+IR,Iran,32,53
+TN,Tunisia,34,9
+JP,Giappone,36,138
+LA,Laos,18,105
+MN,Mongolia,46,105
+PY,Paraguay,-23,-58
+SI,Slovenia,46,15
+LK,Sri Lanka,7,81
+GN,Guinea,11,-10
+ME,Montenegro,42,19
+MM,Myanmar,22,98
+SO,Somalia,10,49
+UZ,Uzbekistan,41,64
+BR,Brasile,-10,-55
+KM,Comore,-39.47.00,44.25.00
+PA,Panama,9,-80
+IQ,Iraq,33,44
+DJ,Gibuti,11.5,43
+GH,Ghana,8,-2
+DM,Dominica,84.27.00,-116.33.00
+KZ,Kazakhstan,48,68
+CI,Costa d'Avorio,8,-5
+BJ,Benin,9.5,2.25
+BY,Bielorussia,53,28
+AZ,Azerbaigian,40.5,47.5
+MG,Madagascar,-20,47
+MV,Maldive,3.25,73
+JM,Giamaica,18.25,-77.5
+MU,Mauritius,-67.13.00,57.55.00
+TG,Togo,8,28.47.00
+MR,Mauritania,20,-12
+SY,Siria,35,38
+PS,Palestina,32,35.25.00
+SG,Singapore,62.07.00,103.8
+SC,Seychelles,-101.13.00,166.07.00
+VC,Saint Vincent e le Grenadine,13.25,-61.2
+VA,Vaticano,41.9,12.45
+TM,Turkmenistan,40,60
+LR,Liberia,6.5,-9.5
+XSD_S,Sud Sudan,,
+GY,Guyana,5,-59
+BN,Brunei,4.5,225.07.00
+GM,Gambia,90.47.00,-110.27.00
+ML,Mali,17,-4
+TT,Trinidad e Tobago,11,-61
+BF,Burkina Faso,13,-2
+ST,Sao Tome' e Principe,1,7
+BZ,Belize,17.25,-89.15.00
+BB,Barbados,40.47.00,-147.53.00
+GD,Grenada,31.27.00,-172.07.00
+KG,Kirghizistan,41,75
+NP,Nepal,28,84
+WS,Samoa,-110.13.00,-227.33.00
+TD,Ciad,15,19
+PW,Palau,7.5,134.5
+BT,Bhutan,27.5,90.5
+TV,Tuvalu,-8,178
+PG,Papua Nuova Guinea,-6,147
+SL,Sierra Leone,8.5,-11.5
+KN,Saint Kitts e Nevis,72.33.00,-63.15.00
+FM,Micronesia,158.47.00,158.25.00
+TO,Tonga,-20,-175
+VU,Vanuatu,-16,167
+NR,Nauru,-88.53.00,318.47.00
+TJ,Tagikistan,39,71
+KI,Kiribati,70.27.00,173
+X1033,Mondo,,
+ITF4,Puglia,4.098.425.390.039.030,103516.27.00
+ITF5,Basilicata,4.050.057.100.033.270,1381.53.00
+ITC2,Valle d'Aosta,4.573.009.900.038.220,6464.06.00
+ITD3,Veneto,4.564.766.630.039.350,144431.54.00
+ITE4,Lazio,4.198.080.380.048.480,12.766.231.199.999.900
+ITC4,Lombardia,4.557.036.940.040.380,128884.24.00
+ITD5,Emilia-Romagna,4.452.569.600.050.650,11.039.436.999.999.900
+ITF3,Campania,4.086.067.200.037.620,14.843.984.000.000.000
+ITD2,Trento,4.606.642.280.033.200,20971.01.00
+ITE2,Umbria,4.296.591.600.053.560,8182.36.00
+ITG2,Sardegna,400.912.813.002.796,9.030.577.299.999.990
+ITF1,Abruzzo,4.222.768.100.050.190,14262.43.00
+ITD4,Friuli-Venezia Giulia,46.151.042.000.318.400,13.055.903.999.999.900
+ITG1,Sicilia,37.587.793.999.924.900,2598.08.00
+ITF6,Calabria,3.905.659.740.013.410,16.524.986.399.999.900
+ITD1,Bolzano,4.649.811.250.025.850,59141.01.00
+ITC1,Piemonte,4.506.073.500.046.230,7.923.548.999.999.990
+ITDA,Trentino Alto Adige,46.441.472.000.268.700,11.282.120.999.999.900
+ITF2,Molise,4.168.467.200.046.070,9940.54.00
+ITE1,Toscana,4.345.865.410.054.190,11.138.920.399.999.900
+ITC3,Liguria,44.477.761.700.509.600,117112.56.00
+ITE3,Marche,4.334.583.880.054.170,23610.52.00

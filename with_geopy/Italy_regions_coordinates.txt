@@ -1,0 +1,63 @@
+import csv
+
+path = "C:\\Users\\Sveva\\Desktop\\OpenData_assignment\\with_geopy\\"
+
+dict_Italy = {"regione": {"ITF1": {"longitudine": "42.227681000501974",
+                                   "latitudine": "13.854982999999999"},
+                          "ITF5": {"longitudine": "40.50057100033277",
+                                   "latitudine": "16.081953"},
+                          "ITF6": {"longitudine": "39.05659740013411",
+                                   "latitudine": "16.524986399999996"},
+                          "ITF3": {"longitudine": "40.86067200037629",
+                                   "latitudine": "14.843984000000003"},
+                          "ITD5": {"longitudine": "44.52569600050655",
+                                   "latitudine": "11.039436999999998"},
+                          "ITD4": {"longitudine": "46.151042000318455",
+                                   "latitudine": "13.055903999999998"},
+                          "ITE4": {"longitudine": "41.98080380048481",
+                                   "latitudine": "12.766231199999998"},
+                          "ITC3": {"longitudine": "44.477761700509625",
+                                   "latitudine": "8.7026296"},
+                          "ITC4": {"longitudine": "45.57036940040383",
+                                   "latitudine": "9.7732524"},
+                          "ITE3": {"longitudine": "43.34583880054176",
+                                   "latitudine": "13.1415872"},
+                          "ITF2": {"longitudine": "41.684672000460715",
+                                   "latitudine": "14.595614"},
+                          "ITC1": {"longitudine": "45.06073500046233",
+                                   "latitudine": "7.923548999999999"},
+                          "ITF4": {"longitudine": "40.98425390039038",
+                                   "latitudine": "16.6210027"},
+                          "ITG2": {"longitudine": "40.091281300279604",
+                                   "latitudine": "9.030577299999997"},
+                          "ITG1": {"longitudine": "37.587793999924976",
+                                   "latitudine": "14.155047999999999"},
+                          "ITDA": {"longitudine": "46.441472000268725",
+                                   "latitudine": "11.282120999999998"},
+                          "ITE1": {"longitudine": "43.458654100541985",
+                                   "latitudine": "11.138920399999998"},
+                          "ITE2": {"longitudine": "42.96591600053568",
+                                   "latitudine": "12.490236000000001"},
+                          "ITC2": {"longitudine": "45.73009900038227",
+                                   "latitudine": "7.3874260000000005"},
+                          "ITD3": {"longitudine": "45.64766630039359",
+                                   "latitudine": "11.8665254"},
+                          "ITD1": {"longitudine": "46.49811250025852",
+                                   "latitudine": "11.3547801"},
+                          "ITD2": {"longitudine": "46.06642280033208",
+                                   "latitudine": "11.1257601"}
+                          }
+              }
+
+
+def write_geocode(p):
+    with open(p+"IT_regions_coordinates.csv", "w", newline="", encoding="utf-8") as f:
+        header = ["regione", "longitudine", "latitudine"]
+        writer = csv.DictWriter(f, fieldnames=header)
+        writer.writeheader()
+        for r in dict_Italy["regione"]:
+            row = {"regione": r, "longitudine": dict_Italy["regione"][r]["longitudine"], "latitudine": dict_Italy["regione"][r]["latitudine"]}
+            writer.writerow(row)
+
+
+write_geocode(path)

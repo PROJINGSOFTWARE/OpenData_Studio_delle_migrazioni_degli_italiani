@@ -1,0 +1,26 @@
+import pandas as pd
+
+base_path = "C:\\Users\\Sveva\\Desktop\\OpenData_assignment\\"
+folder1 = base_path + "Migrazioni_to_merge\\"
+folder2 = base_path + "Migrazioni_merged\\"
+epd = "Emigrati_paese_destinazione.csv"
+ers = "Emigrati_regione_spostamento.csv"
+mi = "Migrazioni_interne.csv"
+
+
+def main():
+    epd_df = pd.read_csv(folder1+epd, sep=",", encoding="utf-8", index_col=False)
+    ers_df = pd.read_csv(folder1+ers, sep=",", encoding="utf-8", index_col=False)
+    mi_df = pd.read_csv(folder1+mi, sep=",", encoding="utf-8", index_col=False)
+    ers_df.columns = ["Cod_origine","Regione di origine", "Tipo di trasferimento", "Paese di cittadinanza", "Sesso", "Cod_destinazione", "Territorio di destinazione", "anno", "valore"]
+    mi_df.columns = ["Cod_origine","Regione di origine", "Paese di cittadinanza", "Sesso", "Cod_destinazione" , "Territorio di destinazione", "anno","valore"]
+    epd_df["Tipo di trasferimento"] = pd.Series(["estero" for i in range(len(epd_df.index))])
+    mi_df["Tipo di trasferimento"] = pd.Series(["in altre regioni" for i in range(len(mi_df.index))])
+    regione_destinazione = pd.concat([ers_df, mi_df])
+    regione_destinazione.columns = ["Cod_origine","Territorio di origine", "Tipo di trasferimento", "Paese di cittadinanza", "Sesso", "Cod_destinazione", "Territorio di destinazione", "anno", "valore"]
+    epd_df.columns = ["Cod_origine","Territorio di origine", "Paese di cittadinanza", "Sesso","Cod_destinazione","Territorio di destinazione", "anno", "valore", "Tipo di trasferimento"]
+    territorio_destinazione = pd.concat([epd_df, regione_destinazione]).drop_duplicates()
+    territorio_destinazione.to_csv(folder2 + "territorio_destinazione.csv", sep=",", encoding="utf-8", index=None)
+
+
+main()

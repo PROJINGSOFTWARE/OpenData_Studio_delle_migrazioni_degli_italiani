@@ -1,0 +1,66 @@
+from rdflib import Graph, Literal, Namespace, URIRef
+from rdflib.namespace import RDF
+import csv
+
+tdc = "C:\\Users\\Sveva\\Desktop\\OpenData_assignment\\territorio_destinazione_coordinate.csv"
+m = "C:\\Users\\Sveva\\Desktop\\OpenData_assignment\\Migrazioni_URI\\migrazione.csv"
+t = "C:\\Users\\Sveva\\Desktop\\OpenData_assignment\\Migrazioni_URI\\territori.csv"
+new_f = "C:\\Users\\Sveva\\Desktop\\OpenData_assignment\\Migrazioni_URI\\"
+
+
+g = Graph()
+ont = Namespace("http:/www.semanticweb.org/sveva/2022/ontology")
+g.bind("ont", ont)
+
+coor = "http:/www.semanticweb.org/sveva/2022/resource/coordinate/"
+terr = "http:/www.semanticweb.org/sveva/2022/resource/territorio/"
+migr = "http:/www.semanticweb.org/sveva/2022/resource/migrazione/"
+
+g.bind("coor", coor)
+g.bind("terr", terr)
+g.bind("migr", migr)
+# ATTENZIONE : 2 soli dataset sono necessari perché coordinate è superchiave minimale
+
+try:
+    with open(t, mode="r") as t_f :
+        t_reader = csv.DictReader(t_f, delimiter=",")
+        for row in t_reader:
+            codice = row["codice"]
+            nome = row["nome"]
+            latitudine = row["latitudine"]
+            longitudine = row["longitudine"]
+            # iniziamo con la creazione delle coordinate a cui farà riferimento il territorio
+            uri_c = coor + "C_" + nome
+            g.add(URIRef(uri_c), RDF.type, ont.Coordinate)
+            g.add(URIRef(uri_c), ont.latitudine, Literal(latitudine))
+            g.add(URIRef(uri_c), ont.longitudine, Literal(longitudine))
+            uri_t = terr + "T_" + nome
+            g.add(URIRef(uri_t), RDF.type, ont.Territorio)
+            g.add(URIRef(uri_t), ont.cod_territorio, Literal(codice))
+            g.add(URIRef(uri_t), ont.nome, Literal(nome, len("it")))
+            g.add(URIRef(uri_t), ont.ha_coordinate, URIRef(uri_c))
+    with open(m, mode="r") as m_f:
+        m_reader = csv.DictReader(m_f, delimiter=",")
+        for row in m_reader:
+            nome_origine = row["origine"]
+            nome_destinazione = row["destinazione"]
+            cittadinanza = row["cittadinanza"]
+            sesso = row["sesso"]
+            anno = row["anno"]
+            trasferimento=row["trasferimento"]
+            n_migranti=row["valore"]
+            m_id = migr + "M_" + nome_origine + "_" + nome_destinazione + "_" + sesso + "_" + anno
+            g.add(URIRef(m_id), RDF.type, ont.Migrazione)
+            g.add(URIRef(m_id), ont.paese_di_cittadinanza, Literal(cittadinanza, len("it")))
+            g.add(URIRef(m_id), ont.sesso, Literal(sesso, len("it")))
+            g.add(URIRef(m_id), ont.anno, Literal(anno))
+            g.add(URIRef(m_id), ont.tipo_trasferimento, Literal(trasferimento, len("it")))
+            # aggiungiamo le relazioni
+            origine_uri = terr + "T_" + nome_origine
+            destinazione_uri = terr + "T_"+ nome_destinazione
+            g.add(URIRef(m_id), ont.ha_origine, URIRef(origine_uri))
+            g.add(URIRef(m_id), ont.ha_destinazione, URIRef(destinazione_uri))
+        g.serialize(destination="C:\\Users\\Sveva\\Desktop\\OpenData_assignment\\Migrazioni_URI\\Migrazione_URI.ttl", format="turtle")
+
+except FileNotFoundError:
+    print("Path errato")

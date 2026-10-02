@@ -1,0 +1,12 @@
+
+import pandas as pd
+td = "C:\\Users\\Sveva\\Desktop\\OpenData_assignment\\Migrazioni_merged\\territorio_destinazione.csv"
+coordinates = "C:\\Users\\Sveva\\Desktop\\OpenData_assignment\\with_geopy\\coordinates.csv"
+
+td_df = pd.read_csv(td, sep=",", encoding="utf", index_col=None)
+c_df = pd.read_csv(coordinates, sep=",", encoding="utf", index_col=None)
+c_df.columns = ["Cod_origine", "latitudine_o", "longitudine_o"]
+origine_merged = td_df.merge(c_df, how="inner", on="Cod_origine")
+c_df.columns = ["Cod_destinazione", "latitudine_d", "longitudine_d"]
+destination_merged = origine_merged.merge(c_df, how="left", on="Cod_destinazione")
+destination_merged.to_csv("C:\\Users\\Sveva\\Desktop\\OpenData_assignment\\territorio_destinazione_coordinate.csv", sep=",", encoding="utf-8", index=False)

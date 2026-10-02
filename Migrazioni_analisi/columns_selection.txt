@@ -1,0 +1,40 @@
+import pandas as pd
+
+# PATH: cartella dove si trovano i dataset originali
+folder_path = "C:\\Users\\Sveva\\Desktop\\OpenData_assignment\\"
+base_path = folder_path + "Migrazioni\\"
+# PATH : cartella dove metteremo i dataset modificati
+new_base_path = folder_path + "Migrazioni_analisi\\"
+#######
+#######
+
+
+mi = "Migrazioni_interne.csv"
+mi_kept_columns = ["ITTER107_A", "Territorio di origine", "Paese di cittadinanza", "Sesso", "ITTER107_B","Territorio di di destinazione", "Seleziona periodo", "Value"]
+mi_new_header = ["Cod_origine", "Regione di origine", "Paese di cittadinanza", "Sesso", "Cod_destinazione", "Regione di destinazione", "anno", "valore"]
+epd = "Emigrati_paese_destinazione.csv"
+epd_kept_columns = ["ITTER107_A", "Territorio di origine", "Paese di cittadinanza", "Sesso", "PAESI_B", "Stato estero di  destinazione","Seleziona periodo", "Value"]
+epd_new_header = ["Cod_origine", "Paese di origine", "Paese di cittadinanza", "Sesso", "Cod_destinazione", "Territorio di destinazione", "anno", "valore"]
+ers = "Emigrati_regione_spostamento.csv"
+ers_kept_columns = ["ITTER107_A", "Territorio di origine", "Tipo di trasferimento", "Paese di cittadinanza", "Sesso", "PAESI_B", "Stato estero di  destinazione", "Seleziona periodo", "Value"]
+ers_new_header = ["Cod_origine", "Regione di origine", "Tipo di trasferimento", "Territorio di cittadinanza", "Sesso", "Cod_destinazione", "Territorio di destinazione", "anno", "valore"]
+######
+######
+
+
+def kept_columns_csv(raw_csv_namefile, kept_columns, new_name_of_columns):
+    path = base_path + raw_csv_namefile
+    df = pd.read_csv(path, sep=",")
+    df = df[kept_columns]
+    df.columns = new_name_of_columns
+    df = df.drop_duplicates(ignore_index=True)
+    new_path = new_base_path + raw_csv_namefile
+    csv_df = df.to_csv(new_path + "", encoding="utf-8", index=None)
+
+
+def main():
+    kept_columns_csv(mi, mi_kept_columns, mi_new_header)
+    kept_columns_csv(epd, epd_kept_columns, epd_new_header)
+    kept_columns_csv(ers, ers_kept_columns, ers_new_header)
+
+main()

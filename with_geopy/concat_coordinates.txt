@@ -1,0 +1,16 @@
+import pandas as pd
+base_path = "C:\\Users\\Sveva\\Desktop\\OpenData_assignment\\with_geopy\\"
+cc = "country_coordinates.csv"
+it_c = "IT_regions_coordinates.csv"
+cc_path = base_path + cc
+it_c_path = base_path + it_c
+
+cc_df = pd.read_csv(cc_path, sep=",", encoding="utf-8", index_col=None)
+mondo = {Cod_Paese:"X1033",Latitudine:"",Longitude:"" }
+mondo = pd.DataFrame(mondo)
+pd.concat([cc_df, mondo],ignore_index=True)
+it_c_df = pd.read_csv(it_c_path, sep=",", encoding="utf-8", index_col=None)
+cc_df.columns = ["cod_territorio", "latitudine", "longitudine"]
+it_c_df.columns = cc_df.columns
+coordinates = pd.concat([cc_df, it_c_df])
+coordinates.to_csv(base_path + "coordinates.csv", sep=",", encoding="utf_8", index=False)
